@@ -1,0 +1,23 @@
+{
+  "/(auth)/login/page": "/login",
+  "/(auth)/register/page": "/register",
+  "/_global-error/page": "/_global-error",
+  "/_not-found/page": "/_not-found",
+  "/dashboard/page": "/dashboard",
+  "/favicon.ico/route": "/favicon.ico",
+  "/feedback/[link]/page": "/feedback/[link]",
+  "/invite/[token]/page": "/invite/[token]",
+  "/page": "/",
+  "/pricing/page": "/pricing",
+  "/profile/page": "/profile",
+  "/settings/page": "/settings",
+  "/workspace/[id]/analytics/page": "/workspace/[id]/analytics",
+  "/workspace/[id]/chat/page": "/workspace/[id]/chat",
+  "/workspace/[id]/feedback/page": "/workspace/[id]/feedback",
+  "/workspace/[id]/insights/page": "/workspace/[id]/insights",
+  "/workspace/[id]/milestones/page": "/workspace/[id]/milestones",
+  "/workspace/[id]/page": "/workspace/[id]",
+  "/workspace/[id]/pitch/page": "/workspace/[id]/pitch",
+  "/workspace/[id]/tasks/page": "/workspace/[id]/tasks",
+  "/workspace/[id]/team/page": "/workspace/[id]/team"
+}
