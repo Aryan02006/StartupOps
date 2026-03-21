@@ -1,0 +1,498 @@
+{"timestamp":"00:00:02.339","source":"Server","level":"LOG","message":""}
+{"timestamp":"00:00:15.807","source":"Browser","level":"INFO","message":"%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold"}
+{"timestamp":"00:00:40.494","source":"Browser","level":"INFO","message":"%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold"}
+{"timestamp":"00:00:46.356","source":"Browser","level":"WARN","message":"[GSI_LOGGER]: Provided button width is invalid: 100%"}
+{"timestamp":"00:00:46.417","source":"Server","level":"WARN","message":"[browser] \"\\u001b[33m[GSI_LOGGER]: Provided button width is invalid: 100%\\u001b[39m\" \"\\u001b[2m(https://accounts.google.com/gsi/client:81:460)\\u001b[22m\""}
+{"timestamp":"00:00:46.418","source":"Browser","level":"WARN","message":"\u001b[33m[GSI_LOGGER]: Provided button width is invalid: 100%\u001b[39m"}
+{"timestamp":"00:00:46.709","source":"Browser","level":"ERROR","message":"[GSI_LOGGER]: FedCM get() rejects with AbortError: signal is aborted without reason"}
+{"timestamp":"00:00:46.722","source":"Server","level":"ERROR","message":"[browser] \"[GSI_LOGGER]: FedCM get() rejects with AbortError: signal is aborted without reason\" \"\\n\\u001b[31m    at _.H (https://accounts.google.com/gsi/client:82:89)\\n    at _.ju.la (https://accounts.google.com/gsi/client:331:251)\\n    at Object.la (https://accounts.google.com/gsi/client:333:497)\\n    at <unknown> (https://accounts.google.com/gsi/client:292:765)\\u001b[39m\" \"\\u001b[2m(https://accounts.google.com/gsi/client:82:89)\\u001b[22m\""}
+{"timestamp":"00:00:46.723","source":"Browser","level":"ERROR","message":"[GSI_LOGGER]: FedCM get() rejects with AbortError: signal is aborted without reason \"\\n\\u001b[31m    at _.H (https://accounts.google.com/gsi/client:82:89)\\n    at _.ju.la (https://accounts.google.com/gsi/client:331:251)\\n    at Object.la (https://accounts.google.com/gsi/client:333:497)\\n    at <unknown> (https://accounts.google.com/gsi/client:292:765)\\u001b[39m\" \"\\u001b[2m(https://accounts.google.com/gsi/client:82:89)\\u001b[22m\""}
+{"timestamp":"00:05:24.992","source":"Browser","level":"WARN","message":"[GSI_LOGGER]: google.accounts.id.initialize() is called multiple times. This could cause unexpected behavior and only the last initialized instance will be used."}
+{"timestamp":"00:05:24.993","source":"Browser","level":"WARN","message":"[GSI_LOGGER]: Provided button width is invalid: 100%"}
+{"timestamp":"00:05:25.067","source":"Server","level":"WARN","message":"[browser] \"\\u001b[33m[GSI_LOGGER]: google.accounts.id.initialize() is called multiple times. This could cause unexpected behavior and only the last initialized instance will be used.\\u001b[39m\" \"\\u001b[2m(https://accounts.google.com/gsi/client:81:460)\\u001b[22m\""}
+{"timestamp":"00:05:25.067","source":"Browser","level":"WARN","message":"\u001b[33m[GSI_LOGGER]: google.accounts.id.initialize() is called multiple times. This could cause unexpected behavior and only the last initialized instance will be used.\u001b[39m"}
+{"timestamp":"00:05:25.068","source":"Server","level":"WARN","message":"[browser] \"\\u001b[33m[GSI_LOGGER]: Provided button width is invalid: 100%\\u001b[39m\" \"\\u001b[2m(https://accounts.google.com/gsi/client:81:460)\\u001b[22m\""}
+{"timestamp":"00:05:25.069","source":"Browser","level":"WARN","message":"\u001b[33m[GSI_LOGGER]: Provided button width is invalid: 100%\u001b[39m"}
+{"timestamp":"00:14:54.083","source":"Server","level":"LOG","message":"○ Compiling /workspace/[id] ..."}
+{"timestamp":"00:15:02.017","source":"Server","level":"LOG","message":"○ Compiling /workspace/[id]/chat ..."}
+{"timestamp":"00:15:03.253","source":"Browser","level":"LOG","message":"Connected to WebSocket"}
+{"timestamp":"00:15:23.482","source":"Browser","level":"LOG","message":"Token in localStorage: EXISTS"}
+{"timestamp":"00:15:23.482","source":"Browser","level":"LOG","message":"Current user: cmn0axiia0000za7afbb2g106"}
+{"timestamp":"00:15:23.482","source":"Browser","level":"LOG","message":"Members: [{\"id\":\"cmn0cuvp50002qqwft7vaobur\",\"joinedAt\":\"2026-03-21T13:19:59.891Z\",\"role\":\"owner\",\"user\":{\"createdAt\":\"2026-03-21T12:26:03.634Z\",\"email\":\"engineer.aryan084@gmail.com\",\"id\":\"cmn0axiia0000za7afbb2g106\",\"name\":\"Aryan Pandey\"},\"userId\":\"cmn0axiia0000za7afbb2g106\",\"workspaceId\":\"cmn0cuvop0000qqwfdpj2ahgk\"}]"}
+{"timestamp":"00:15:23.482","source":"Browser","level":"LOG","message":"Is owner: true"}
+{"timestamp":"00:15:23.482","source":"Browser","level":"LOG","message":"Can invite: true"}
+{"timestamp":"00:15:23.482","source":"Browser","level":"LOG","message":"API Error: null"}
+{"timestamp":"00:15:23.482","source":"Browser","level":"LOG","message":"Token in localStorage: EXISTS"}
+{"timestamp":"00:15:23.482","source":"Browser","level":"LOG","message":"Current user: cmn0axiia0000za7afbb2g106"}
+{"timestamp":"00:15:23.483","source":"Browser","level":"LOG","message":"Members: [{\"id\":\"cmn0cuvp50002qqwft7vaobur\",\"joinedAt\":\"2026-03-21T13:19:59.891Z\",\"role\":\"owner\",\"user\":{\"createdAt\":\"2026-03-21T12:26:03.634Z\",\"email\":\"engineer.aryan084@gmail.com\",\"id\":\"cmn0axiia0000za7afbb2g106\",\"name\":\"Aryan Pandey\"},\"userId\":\"cmn0axiia0000za7afbb2g106\",\"workspaceId\":\"cmn0cuvop0000qqwfdpj2ahgk\"}]"}
+{"timestamp":"00:15:23.483","source":"Browser","level":"LOG","message":"Is owner: true"}
+{"timestamp":"00:15:23.483","source":"Browser","level":"LOG","message":"Can invite: true"}
+{"timestamp":"00:15:23.483","source":"Browser","level":"LOG","message":"API Error: null"}
+{"timestamp":"00:15:23.943","source":"Browser","level":"LOG","message":"Token in localStorage: EXISTS"}
+{"timestamp":"00:15:23.943","source":"Browser","level":"LOG","message":"Current user: cmn0axiia0000za7afbb2g106"}
+{"timestamp":"00:15:23.943","source":"Browser","level":"LOG","message":"Members: [{\"id\":\"cmn0cuvp50002qqwft7vaobur\",\"joinedAt\":\"2026-03-21T13:19:59.891Z\",\"role\":\"owner\",\"user\":{\"createdAt\":\"2026-03-21T12:26:03.634Z\",\"email\":\"engineer.aryan084@gmail.com\",\"id\":\"cmn0axiia0000za7afbb2g106\",\"name\":\"Aryan Pandey\"},\"userId\":\"cmn0axiia0000za7afbb2g106\",\"workspaceId\":\"cmn0cuvop0000qqwfdpj2ahgk\"}]"}
+{"timestamp":"00:15:23.943","source":"Browser","level":"LOG","message":"Is owner: true"}
+{"timestamp":"00:15:23.943","source":"Browser","level":"LOG","message":"Can invite: true"}
+{"timestamp":"00:15:23.943","source":"Browser","level":"LOG","message":"API Error: null"}
+{"timestamp":"00:15:23.943","source":"Browser","level":"LOG","message":"Token in localStorage: EXISTS"}
+{"timestamp":"00:15:23.943","source":"Browser","level":"LOG","message":"Current user: cmn0axiia0000za7afbb2g106"}
+{"timestamp":"00:15:23.943","source":"Browser","level":"LOG","message":"Members: [{\"id\":\"cmn0cuvp50002qqwft7vaobur\",\"joinedAt\":\"2026-03-21T13:19:59.891Z\",\"role\":\"owner\",\"user\":{\"createdAt\":\"2026-03-21T12:26:03.634Z\",\"email\":\"engineer.aryan084@gmail.com\",\"id\":\"cmn0axiia0000za7afbb2g106\",\"name\":\"Aryan Pandey\"},\"userId\":\"cmn0axiia0000za7afbb2g106\",\"workspaceId\":\"cmn0cuvop0000qqwfdpj2ahgk\"}]"}
+{"timestamp":"00:15:23.943","source":"Browser","level":"LOG","message":"Is owner: true"}
+{"timestamp":"00:15:23.943","source":"Browser","level":"LOG","message":"Can invite: true"}
+{"timestamp":"00:15:23.943","source":"Browser","level":"LOG","message":"API Error: null"}
+{"timestamp":"00:15:25.560","source":"Browser","level":"LOG","message":"Token in localStorage: EXISTS"}
+{"timestamp":"00:15:25.560","source":"Browser","level":"LOG","message":"Current user: cmn0axiia0000za7afbb2g106"}
+{"timestamp":"00:15:25.560","source":"Browser","level":"LOG","message":"Members: [{\"id\":\"cmn0cuvp50002qqwft7vaobur\",\"joinedAt\":\"2026-03-21T13:19:59.891Z\",\"role\":\"owner\",\"user\":{\"createdAt\":\"2026-03-21T12:26:03.634Z\",\"email\":\"engineer.aryan084@gmail.com\",\"id\":\"cmn0axiia0000za7afbb2g106\",\"name\":\"Aryan Pandey\"},\"userId\":\"cmn0axiia0000za7afbb2g106\",\"workspaceId\":\"cmn0cuvop0000qqwfdpj2ahgk\"}]"}
+{"timestamp":"00:15:25.560","source":"Browser","level":"LOG","message":"Is owner: true"}
+{"timestamp":"00:15:25.560","source":"Browser","level":"LOG","message":"Can invite: true"}
+{"timestamp":"00:15:25.560","source":"Browser","level":"LOG","message":"API Error: null"}
+{"timestamp":"00:15:25.560","source":"Browser","level":"LOG","message":"Token in localStorage: EXISTS"}
+{"timestamp":"00:15:25.560","source":"Browser","level":"LOG","message":"Current user: cmn0axiia0000za7afbb2g106"}
+{"timestamp":"00:15:25.560","source":"Browser","level":"LOG","message":"Members: [{\"id\":\"cmn0cuvp50002qqwft7vaobur\",\"joinedAt\":\"2026-03-21T13:19:59.891Z\",\"role\":\"owner\",\"user\":{\"createdAt\":\"2026-03-21T12:26:03.634Z\",\"email\":\"engineer.aryan084@gmail.com\",\"id\":\"cmn0axiia0000za7afbb2g106\",\"name\":\"Aryan Pandey\"},\"userId\":\"cmn0axiia0000za7afbb2g106\",\"workspaceId\":\"cmn0cuvop0000qqwfdpj2ahgk\"}]"}
+{"timestamp":"00:15:25.560","source":"Browser","level":"LOG","message":"Is owner: true"}
+{"timestamp":"00:15:25.561","source":"Browser","level":"LOG","message":"Can invite: true"}
+{"timestamp":"00:15:25.561","source":"Browser","level":"LOG","message":"API Error: null"}
+{"timestamp":"00:15:29.272","source":"Browser","level":"LOG","message":"Token in localStorage: EXISTS"}
+{"timestamp":"00:15:29.272","source":"Browser","level":"LOG","message":"Current user: cmn0axiia0000za7afbb2g106"}
+{"timestamp":"00:15:29.273","source":"Browser","level":"LOG","message":"Members: [{\"id\":\"cmn0cuvp50002qqwft7vaobur\",\"joinedAt\":\"2026-03-21T13:19:59.891Z\",\"role\":\"owner\",\"user\":{\"createdAt\":\"2026-03-21T12:26:03.634Z\",\"email\":\"engineer.aryan084@gmail.com\",\"id\":\"cmn0axiia0000za7afbb2g106\",\"name\":\"Aryan Pandey\"},\"userId\":\"cmn0axiia0000za7afbb2g106\",\"workspaceId\":\"cmn0cuvop0000qqwfdpj2ahgk\"}]"}
+{"timestamp":"00:15:29.273","source":"Browser","level":"LOG","message":"Is owner: true"}
+{"timestamp":"00:15:29.273","source":"Browser","level":"LOG","message":"Can invite: true"}
+{"timestamp":"00:15:29.273","source":"Browser","level":"LOG","message":"API Error: null"}
+{"timestamp":"00:15:29.273","source":"Browser","level":"LOG","message":"Token in localStorage: EXISTS"}
+{"timestamp":"00:15:29.273","source":"Browser","level":"LOG","message":"Current user: cmn0axiia0000za7afbb2g106"}
+{"timestamp":"00:15:29.273","source":"Browser","level":"LOG","message":"Members: [{\"id\":\"cmn0cuvp50002qqwft7vaobur\",\"joinedAt\":\"2026-03-21T13:19:59.891Z\",\"role\":\"owner\",\"user\":{\"createdAt\":\"2026-03-21T12:26:03.634Z\",\"email\":\"engineer.aryan084@gmail.com\",\"id\":\"cmn0axiia0000za7afbb2g106\",\"name\":\"Aryan Pandey\"},\"userId\":\"cmn0axiia0000za7afbb2g106\",\"workspaceId\":\"cmn0cuvop0000qqwfdpj2ahgk\"}]"}
+{"timestamp":"00:15:29.273","source":"Browser","level":"LOG","message":"Is owner: true"}
+{"timestamp":"00:15:29.273","source":"Browser","level":"LOG","message":"Can invite: true"}
+{"timestamp":"00:15:29.273","source":"Browser","level":"LOG","message":"API Error: null"}
+{"timestamp":"00:15:29.461","source":"Browser","level":"LOG","message":"Token in localStorage: EXISTS"}
+{"timestamp":"00:15:29.461","source":"Browser","level":"LOG","message":"Current user: cmn0axiia0000za7afbb2g106"}
+{"timestamp":"00:15:29.461","source":"Browser","level":"LOG","message":"Members: [{\"id\":\"cmn0cuvp50002qqwft7vaobur\",\"joinedAt\":\"2026-03-21T13:19:59.891Z\",\"role\":\"owner\",\"user\":{\"createdAt\":\"2026-03-21T12:26:03.634Z\",\"email\":\"engineer.aryan084@gmail.com\",\"id\":\"cmn0axiia0000za7afbb2g106\",\"name\":\"Aryan Pandey\"},\"userId\":\"cmn0axiia0000za7afbb2g106\",\"workspaceId\":\"cmn0cuvop0000qqwfdpj2ahgk\"}]"}
+{"timestamp":"00:15:29.461","source":"Browser","level":"LOG","message":"Is owner: true"}
+{"timestamp":"00:15:29.461","source":"Browser","level":"LOG","message":"Can invite: true"}
+{"timestamp":"00:15:29.461","source":"Browser","level":"LOG","message":"API Error: null"}
+{"timestamp":"00:15:29.461","source":"Browser","level":"LOG","message":"Token in localStorage: EXISTS"}
+{"timestamp":"00:15:29.461","source":"Browser","level":"LOG","message":"Current user: cmn0axiia0000za7afbb2g106"}
+{"timestamp":"00:15:29.461","source":"Browser","level":"LOG","message":"Members: [{\"id\":\"cmn0cuvp50002qqwft7vaobur\",\"joinedAt\":\"2026-03-21T13:19:59.891Z\",\"role\":\"owner\",\"user\":{\"createdAt\":\"2026-03-21T12:26:03.634Z\",\"email\":\"engineer.aryan084@gmail.com\",\"id\":\"cmn0axiia0000za7afbb2g106\",\"name\":\"Aryan Pandey\"},\"userId\":\"cmn0axiia0000za7afbb2g106\",\"workspaceId\":\"cmn0cuvop0000qqwfdpj2ahgk\"}]"}
+{"timestamp":"00:15:29.461","source":"Browser","level":"LOG","message":"Is owner: true"}
+{"timestamp":"00:15:29.461","source":"Browser","level":"LOG","message":"Can invite: true"}
+{"timestamp":"00:15:29.461","source":"Browser","level":"LOG","message":"API Error: null"}
+{"timestamp":"00:15:30.491","source":"Browser","level":"LOG","message":"Token in localStorage: EXISTS"}
+{"timestamp":"00:15:30.492","source":"Browser","level":"LOG","message":"Current user: cmn0axiia0000za7afbb2g106"}
+{"timestamp":"00:15:30.492","source":"Browser","level":"LOG","message":"Members: [{\"id\":\"cmn0cuvp50002qqwft7vaobur\",\"joinedAt\":\"2026-03-21T13:19:59.891Z\",\"role\":\"owner\",\"user\":{\"createdAt\":\"2026-03-21T12:26:03.634Z\",\"email\":\"engineer.aryan084@gmail.com\",\"id\":\"cmn0axiia0000za7afbb2g106\",\"name\":\"Aryan Pandey\"},\"userId\":\"cmn0axiia0000za7afbb2g106\",\"workspaceId\":\"cmn0cuvop0000qqwfdpj2ahgk\"}]"}
+{"timestamp":"00:15:30.492","source":"Browser","level":"LOG","message":"Is owner: true"}
+{"timestamp":"00:15:30.492","source":"Browser","level":"LOG","message":"Can invite: true"}
+{"timestamp":"00:15:30.492","source":"Browser","level":"LOG","message":"API Error: null"}
+{"timestamp":"00:15:30.492","source":"Browser","level":"LOG","message":"Token in localStorage: EXISTS"}
+{"timestamp":"00:15:30.492","source":"Browser","level":"LOG","message":"Current user: cmn0axiia0000za7afbb2g106"}
+{"timestamp":"00:15:30.492","source":"Browser","level":"LOG","message":"Members: [{\"id\":\"cmn0cuvp50002qqwft7vaobur\",\"joinedAt\":\"2026-03-21T13:19:59.891Z\",\"role\":\"owner\",\"user\":{\"createdAt\":\"2026-03-21T12:26:03.634Z\",\"email\":\"engineer.aryan084@gmail.com\",\"id\":\"cmn0axiia0000za7afbb2g106\",\"name\":\"Aryan Pandey\"},\"userId\":\"cmn0axiia0000za7afbb2g106\",\"workspaceId\":\"cmn0cuvop0000qqwfdpj2ahgk\"}]"}
+{"timestamp":"00:15:30.492","source":"Browser","level":"LOG","message":"Is owner: true"}
+{"timestamp":"00:15:30.492","source":"Browser","level":"LOG","message":"Can invite: true"}
+{"timestamp":"00:15:30.492","source":"Browser","level":"LOG","message":"API Error: null"}
+{"timestamp":"00:15:30.760","source":"Browser","level":"LOG","message":"Token in localStorage: EXISTS"}
+{"timestamp":"00:15:30.760","source":"Browser","level":"LOG","message":"Current user: cmn0axiia0000za7afbb2g106"}
+{"timestamp":"00:15:30.760","source":"Browser","level":"LOG","message":"Members: [{\"id\":\"cmn0cuvp50002qqwft7vaobur\",\"joinedAt\":\"2026-03-21T13:19:59.891Z\",\"role\":\"owner\",\"user\":{\"createdAt\":\"2026-03-21T12:26:03.634Z\",\"email\":\"engineer.aryan084@gmail.com\",\"id\":\"cmn0axiia0000za7afbb2g106\",\"name\":\"Aryan Pandey\"},\"userId\":\"cmn0axiia0000za7afbb2g106\",\"workspaceId\":\"cmn0cuvop0000qqwfdpj2ahgk\"}]"}
+{"timestamp":"00:15:30.760","source":"Browser","level":"LOG","message":"Is owner: true"}
+{"timestamp":"00:15:30.760","source":"Browser","level":"LOG","message":"Can invite: true"}
+{"timestamp":"00:15:30.760","source":"Browser","level":"LOG","message":"API Error: null"}
+{"timestamp":"00:15:30.760","source":"Browser","level":"LOG","message":"Token in localStorage: EXISTS"}
+{"timestamp":"00:15:30.760","source":"Browser","level":"LOG","message":"Current user: cmn0axiia0000za7afbb2g106"}
+{"timestamp":"00:15:30.760","source":"Browser","level":"LOG","message":"Members: [{\"id\":\"cmn0cuvp50002qqwft7vaobur\",\"joinedAt\":\"2026-03-21T13:19:59.891Z\",\"role\":\"owner\",\"user\":{\"createdAt\":\"2026-03-21T12:26:03.634Z\",\"email\":\"engineer.aryan084@gmail.com\",\"id\":\"cmn0axiia0000za7afbb2g106\",\"name\":\"Aryan Pandey\"},\"userId\":\"cmn0axiia0000za7afbb2g106\",\"workspaceId\":\"cmn0cuvop0000qqwfdpj2ahgk\"}]"}
+{"timestamp":"00:15:30.760","source":"Browser","level":"LOG","message":"Is owner: true"}
+{"timestamp":"00:15:30.760","source":"Browser","level":"LOG","message":"Can invite: true"}
+{"timestamp":"00:15:30.760","source":"Browser","level":"LOG","message":"API Error: null"}
+{"timestamp":"00:15:30.916","source":"Browser","level":"LOG","message":"Token in localStorage: EXISTS"}
+{"timestamp":"00:15:30.916","source":"Browser","level":"LOG","message":"Current user: cmn0axiia0000za7afbb2g106"}
+{"timestamp":"00:15:30.916","source":"Browser","level":"LOG","message":"Members: [{\"id\":\"cmn0cuvp50002qqwft7vaobur\",\"joinedAt\":\"2026-03-21T13:19:59.891Z\",\"role\":\"owner\",\"user\":{\"createdAt\":\"2026-03-21T12:26:03.634Z\",\"email\":\"engineer.aryan084@gmail.com\",\"id\":\"cmn0axiia0000za7afbb2g106\",\"name\":\"Aryan Pandey\"},\"userId\":\"cmn0axiia0000za7afbb2g106\",\"workspaceId\":\"cmn0cuvop0000qqwfdpj2ahgk\"}]"}
+{"timestamp":"00:15:30.916","source":"Browser","level":"LOG","message":"Is owner: true"}
+{"timestamp":"00:15:30.916","source":"Browser","level":"LOG","message":"Can invite: true"}
+{"timestamp":"00:15:30.916","source":"Browser","level":"LOG","message":"API Error: null"}
+{"timestamp":"00:15:30.916","source":"Browser","level":"LOG","message":"Token in localStorage: EXISTS"}
+{"timestamp":"00:15:30.916","source":"Browser","level":"LOG","message":"Current user: cmn0axiia0000za7afbb2g106"}
+{"timestamp":"00:15:30.916","source":"Browser","level":"LOG","message":"Members: [{\"id\":\"cmn0cuvp50002qqwft7vaobur\",\"joinedAt\":\"2026-03-21T13:19:59.891Z\",\"role\":\"owner\",\"user\":{\"createdAt\":\"2026-03-21T12:26:03.634Z\",\"email\":\"engineer.aryan084@gmail.com\",\"id\":\"cmn0axiia0000za7afbb2g106\",\"name\":\"Aryan Pandey\"},\"userId\":\"cmn0axiia0000za7afbb2g106\",\"workspaceId\":\"cmn0cuvop0000qqwfdpj2ahgk\"}]"}
+{"timestamp":"00:15:30.916","source":"Browser","level":"LOG","message":"Is owner: true"}
+{"timestamp":"00:15:30.916","source":"Browser","level":"LOG","message":"Can invite: true"}
+{"timestamp":"00:15:30.916","source":"Browser","level":"LOG","message":"API Error: null"}
+{"timestamp":"00:15:31.041","source":"Browser","level":"LOG","message":"Token in localStorage: EXISTS"}
+{"timestamp":"00:15:31.041","source":"Browser","level":"LOG","message":"Current user: cmn0axiia0000za7afbb2g106"}
+{"timestamp":"00:15:31.042","source":"Browser","level":"LOG","message":"Members: [{\"id\":\"cmn0cuvp50002qqwft7vaobur\",\"joinedAt\":\"2026-03-21T13:19:59.891Z\",\"role\":\"owner\",\"user\":{\"createdAt\":\"2026-03-21T12:26:03.634Z\",\"email\":\"engineer.aryan084@gmail.com\",\"id\":\"cmn0axiia0000za7afbb2g106\",\"name\":\"Aryan Pandey\"},\"userId\":\"cmn0axiia0000za7afbb2g106\",\"workspaceId\":\"cmn0cuvop0000qqwfdpj2ahgk\"}]"}
+{"timestamp":"00:15:31.042","source":"Browser","level":"LOG","message":"Is owner: true"}
+{"timestamp":"00:15:31.042","source":"Browser","level":"LOG","message":"Can invite: true"}
+{"timestamp":"00:15:31.042","source":"Browser","level":"LOG","message":"API Error: null"}
+{"timestamp":"00:15:31.042","source":"Browser","level":"LOG","message":"Token in localStorage: EXISTS"}
+{"timestamp":"00:15:31.042","source":"Browser","level":"LOG","message":"Current user: cmn0axiia0000za7afbb2g106"}
+{"timestamp":"00:15:31.042","source":"Browser","level":"LOG","message":"Members: [{\"id\":\"cmn0cuvp50002qqwft7vaobur\",\"joinedAt\":\"2026-03-21T13:19:59.891Z\",\"role\":\"owner\",\"user\":{\"createdAt\":\"2026-03-21T12:26:03.634Z\",\"email\":\"engineer.aryan084@gmail.com\",\"id\":\"cmn0axiia0000za7afbb2g106\",\"name\":\"Aryan Pandey\"},\"userId\":\"cmn0axiia0000za7afbb2g106\",\"workspaceId\":\"cmn0cuvop0000qqwfdpj2ahgk\"}]"}
+{"timestamp":"00:15:31.042","source":"Browser","level":"LOG","message":"Is owner: true"}
+{"timestamp":"00:15:31.042","source":"Browser","level":"LOG","message":"Can invite: true"}
+{"timestamp":"00:15:31.042","source":"Browser","level":"LOG","message":"API Error: null"}
+{"timestamp":"00:15:31.196","source":"Browser","level":"LOG","message":"Token in localStorage: EXISTS"}
+{"timestamp":"00:15:31.196","source":"Browser","level":"LOG","message":"Current user: cmn0axiia0000za7afbb2g106"}
+{"timestamp":"00:15:31.196","source":"Browser","level":"LOG","message":"Members: [{\"id\":\"cmn0cuvp50002qqwft7vaobur\",\"joinedAt\":\"2026-03-21T13:19:59.891Z\",\"role\":\"owner\",\"user\":{\"createdAt\":\"2026-03-21T12:26:03.634Z\",\"email\":\"engineer.aryan084@gmail.com\",\"id\":\"cmn0axiia0000za7afbb2g106\",\"name\":\"Aryan Pandey\"},\"userId\":\"cmn0axiia0000za7afbb2g106\",\"workspaceId\":\"cmn0cuvop0000qqwfdpj2ahgk\"}]"}
+{"timestamp":"00:15:31.196","source":"Browser","level":"LOG","message":"Is owner: true"}
+{"timestamp":"00:15:31.196","source":"Browser","level":"LOG","message":"Can invite: true"}
+{"timestamp":"00:15:31.196","source":"Browser","level":"LOG","message":"API Error: null"}
+{"timestamp":"00:15:31.196","source":"Browser","level":"LOG","message":"Token in localStorage: EXISTS"}
+{"timestamp":"00:15:31.196","source":"Browser","level":"LOG","message":"Current user: cmn0axiia0000za7afbb2g106"}
+{"timestamp":"00:15:31.196","source":"Browser","level":"LOG","message":"Members: [{\"id\":\"cmn0cuvp50002qqwft7vaobur\",\"joinedAt\":\"2026-03-21T13:19:59.891Z\",\"role\":\"owner\",\"user\":{\"createdAt\":\"2026-03-21T12:26:03.634Z\",\"email\":\"engineer.aryan084@gmail.com\",\"id\":\"cmn0axiia0000za7afbb2g106\",\"name\":\"Aryan Pandey\"},\"userId\":\"cmn0axiia0000za7afbb2g106\",\"workspaceId\":\"cmn0cuvop0000qqwfdpj2ahgk\"}]"}
+{"timestamp":"00:15:31.196","source":"Browser","level":"LOG","message":"Is owner: true"}
+{"timestamp":"00:15:31.196","source":"Browser","level":"LOG","message":"Can invite: true"}
+{"timestamp":"00:15:31.196","source":"Browser","level":"LOG","message":"API Error: null"}
+{"timestamp":"00:15:31.521","source":"Browser","level":"LOG","message":"Token in localStorage: EXISTS"}
+{"timestamp":"00:15:31.521","source":"Browser","level":"LOG","message":"Current user: cmn0axiia0000za7afbb2g106"}
+{"timestamp":"00:15:31.522","source":"Browser","level":"LOG","message":"Members: [{\"id\":\"cmn0cuvp50002qqwft7vaobur\",\"joinedAt\":\"2026-03-21T13:19:59.891Z\",\"role\":\"owner\",\"user\":{\"createdAt\":\"2026-03-21T12:26:03.634Z\",\"email\":\"engineer.aryan084@gmail.com\",\"id\":\"cmn0axiia0000za7afbb2g106\",\"name\":\"Aryan Pandey\"},\"userId\":\"cmn0axiia0000za7afbb2g106\",\"workspaceId\":\"cmn0cuvop0000qqwfdpj2ahgk\"}]"}
+{"timestamp":"00:15:31.522","source":"Browser","level":"LOG","message":"Is owner: true"}
+{"timestamp":"00:15:31.522","source":"Browser","level":"LOG","message":"Can invite: true"}
+{"timestamp":"00:15:31.522","source":"Browser","level":"LOG","message":"API Error: null"}
+{"timestamp":"00:15:31.522","source":"Browser","level":"LOG","message":"Token in localStorage: EXISTS"}
+{"timestamp":"00:15:31.522","source":"Browser","level":"LOG","message":"Current user: cmn0axiia0000za7afbb2g106"}
+{"timestamp":"00:15:31.522","source":"Browser","level":"LOG","message":"Members: [{\"id\":\"cmn0cuvp50002qqwft7vaobur\",\"joinedAt\":\"2026-03-21T13:19:59.891Z\",\"role\":\"owner\",\"user\":{\"createdAt\":\"2026-03-21T12:26:03.634Z\",\"email\":\"engineer.aryan084@gmail.com\",\"id\":\"cmn0axiia0000za7afbb2g106\",\"name\":\"Aryan Pandey\"},\"userId\":\"cmn0axiia0000za7afbb2g106\",\"workspaceId\":\"cmn0cuvop0000qqwfdpj2ahgk\"}]"}
+{"timestamp":"00:15:31.522","source":"Browser","level":"LOG","message":"Is owner: true"}
+{"timestamp":"00:15:31.522","source":"Browser","level":"LOG","message":"Can invite: true"}
+{"timestamp":"00:15:31.522","source":"Browser","level":"LOG","message":"API Error: null"}
+{"timestamp":"00:15:32.007","source":"Browser","level":"LOG","message":"Token in localStorage: EXISTS"}
+{"timestamp":"00:15:32.007","source":"Browser","level":"LOG","message":"Current user: cmn0axiia0000za7afbb2g106"}
+{"timestamp":"00:15:32.007","source":"Browser","level":"LOG","message":"Members: [{\"id\":\"cmn0cuvp50002qqwft7vaobur\",\"joinedAt\":\"2026-03-21T13:19:59.891Z\",\"role\":\"owner\",\"user\":{\"createdAt\":\"2026-03-21T12:26:03.634Z\",\"email\":\"engineer.aryan084@gmail.com\",\"id\":\"cmn0axiia0000za7afbb2g106\",\"name\":\"Aryan Pandey\"},\"userId\":\"cmn0axiia0000za7afbb2g106\",\"workspaceId\":\"cmn0cuvop0000qqwfdpj2ahgk\"}]"}
+{"timestamp":"00:15:32.007","source":"Browser","level":"LOG","message":"Is owner: true"}
+{"timestamp":"00:15:32.008","source":"Browser","level":"LOG","message":"Can invite: true"}
+{"timestamp":"00:15:32.008","source":"Browser","level":"LOG","message":"API Error: null"}
+{"timestamp":"00:15:32.008","source":"Browser","level":"LOG","message":"Token in localStorage: EXISTS"}
+{"timestamp":"00:15:32.008","source":"Browser","level":"LOG","message":"Current user: cmn0axiia0000za7afbb2g106"}
+{"timestamp":"00:15:32.008","source":"Browser","level":"LOG","message":"Members: [{\"id\":\"cmn0cuvp50002qqwft7vaobur\",\"joinedAt\":\"2026-03-21T13:19:59.891Z\",\"role\":\"owner\",\"user\":{\"createdAt\":\"2026-03-21T12:26:03.634Z\",\"email\":\"engineer.aryan084@gmail.com\",\"id\":\"cmn0axiia0000za7afbb2g106\",\"name\":\"Aryan Pandey\"},\"userId\":\"cmn0axiia0000za7afbb2g106\",\"workspaceId\":\"cmn0cuvop0000qqwfdpj2ahgk\"}]"}
+{"timestamp":"00:15:32.008","source":"Browser","level":"LOG","message":"Is owner: true"}
+{"timestamp":"00:15:32.008","source":"Browser","level":"LOG","message":"Can invite: true"}
+{"timestamp":"00:15:32.008","source":"Browser","level":"LOG","message":"API Error: null"}
+{"timestamp":"00:15:32.184","source":"Browser","level":"LOG","message":"Token in localStorage: EXISTS"}
+{"timestamp":"00:15:32.185","source":"Browser","level":"LOG","message":"Current user: cmn0axiia0000za7afbb2g106"}
+{"timestamp":"00:15:32.185","source":"Browser","level":"LOG","message":"Members: [{\"id\":\"cmn0cuvp50002qqwft7vaobur\",\"joinedAt\":\"2026-03-21T13:19:59.891Z\",\"role\":\"owner\",\"user\":{\"createdAt\":\"2026-03-21T12:26:03.634Z\",\"email\":\"engineer.aryan084@gmail.com\",\"id\":\"cmn0axiia0000za7afbb2g106\",\"name\":\"Aryan Pandey\"},\"userId\":\"cmn0axiia0000za7afbb2g106\",\"workspaceId\":\"cmn0cuvop0000qqwfdpj2ahgk\"}]"}
+{"timestamp":"00:15:32.185","source":"Browser","level":"LOG","message":"Is owner: true"}
+{"timestamp":"00:15:32.185","source":"Browser","level":"LOG","message":"Can invite: true"}
+{"timestamp":"00:15:32.185","source":"Browser","level":"LOG","message":"API Error: null"}
+{"timestamp":"00:15:32.185","source":"Browser","level":"LOG","message":"Token in localStorage: EXISTS"}
+{"timestamp":"00:15:32.185","source":"Browser","level":"LOG","message":"Current user: cmn0axiia0000za7afbb2g106"}
+{"timestamp":"00:15:32.185","source":"Browser","level":"LOG","message":"Members: [{\"id\":\"cmn0cuvp50002qqwft7vaobur\",\"joinedAt\":\"2026-03-21T13:19:59.891Z\",\"role\":\"owner\",\"user\":{\"createdAt\":\"2026-03-21T12:26:03.634Z\",\"email\":\"engineer.aryan084@gmail.com\",\"id\":\"cmn0axiia0000za7afbb2g106\",\"name\":\"Aryan Pandey\"},\"userId\":\"cmn0axiia0000za7afbb2g106\",\"workspaceId\":\"cmn0cuvop0000qqwfdpj2ahgk\"}]"}
+{"timestamp":"00:15:32.185","source":"Browser","level":"LOG","message":"Is owner: true"}
+{"timestamp":"00:15:32.185","source":"Browser","level":"LOG","message":"Can invite: true"}
+{"timestamp":"00:15:32.185","source":"Browser","level":"LOG","message":"API Error: null"}
+{"timestamp":"00:15:32.368","source":"Browser","level":"LOG","message":"Token in localStorage: EXISTS"}
+{"timestamp":"00:15:32.368","source":"Browser","level":"LOG","message":"Current user: cmn0axiia0000za7afbb2g106"}
+{"timestamp":"00:15:32.368","source":"Browser","level":"LOG","message":"Members: [{\"id\":\"cmn0cuvp50002qqwft7vaobur\",\"joinedAt\":\"2026-03-21T13:19:59.891Z\",\"role\":\"owner\",\"user\":{\"createdAt\":\"2026-03-21T12:26:03.634Z\",\"email\":\"engineer.aryan084@gmail.com\",\"id\":\"cmn0axiia0000za7afbb2g106\",\"name\":\"Aryan Pandey\"},\"userId\":\"cmn0axiia0000za7afbb2g106\",\"workspaceId\":\"cmn0cuvop0000qqwfdpj2ahgk\"}]"}
+{"timestamp":"00:15:32.368","source":"Browser","level":"LOG","message":"Is owner: true"}
+{"timestamp":"00:15:32.368","source":"Browser","level":"LOG","message":"Can invite: true"}
+{"timestamp":"00:15:32.368","source":"Browser","level":"LOG","message":"API Error: null"}
+{"timestamp":"00:15:32.368","source":"Browser","level":"LOG","message":"Token in localStorage: EXISTS"}
+{"timestamp":"00:15:32.368","source":"Browser","level":"LOG","message":"Current user: cmn0axiia0000za7afbb2g106"}
+{"timestamp":"00:15:32.368","source":"Browser","level":"LOG","message":"Members: [{\"id\":\"cmn0cuvp50002qqwft7vaobur\",\"joinedAt\":\"2026-03-21T13:19:59.891Z\",\"role\":\"owner\",\"user\":{\"createdAt\":\"2026-03-21T12:26:03.634Z\",\"email\":\"engineer.aryan084@gmail.com\",\"id\":\"cmn0axiia0000za7afbb2g106\",\"name\":\"Aryan Pandey\"},\"userId\":\"cmn0axiia0000za7afbb2g106\",\"workspaceId\":\"cmn0cuvop0000qqwfdpj2ahgk\"}]"}
+{"timestamp":"00:15:32.368","source":"Browser","level":"LOG","message":"Is owner: true"}
+{"timestamp":"00:15:32.368","source":"Browser","level":"LOG","message":"Can invite: true"}
+{"timestamp":"00:15:32.368","source":"Browser","level":"LOG","message":"API Error: null"}
+{"timestamp":"00:15:32.535","source":"Browser","level":"LOG","message":"Token in localStorage: EXISTS"}
+{"timestamp":"00:15:32.535","source":"Browser","level":"LOG","message":"Current user: cmn0axiia0000za7afbb2g106"}
+{"timestamp":"00:15:32.535","source":"Browser","level":"LOG","message":"Members: [{\"id\":\"cmn0cuvp50002qqwft7vaobur\",\"joinedAt\":\"2026-03-21T13:19:59.891Z\",\"role\":\"owner\",\"user\":{\"createdAt\":\"2026-03-21T12:26:03.634Z\",\"email\":\"engineer.aryan084@gmail.com\",\"id\":\"cmn0axiia0000za7afbb2g106\",\"name\":\"Aryan Pandey\"},\"userId\":\"cmn0axiia0000za7afbb2g106\",\"workspaceId\":\"cmn0cuvop0000qqwfdpj2ahgk\"}]"}
+{"timestamp":"00:15:32.535","source":"Browser","level":"LOG","message":"Is owner: true"}
+{"timestamp":"00:15:32.535","source":"Browser","level":"LOG","message":"Can invite: true"}
+{"timestamp":"00:15:32.535","source":"Browser","level":"LOG","message":"API Error: null"}
+{"timestamp":"00:15:32.535","source":"Browser","level":"LOG","message":"Token in localStorage: EXISTS"}
+{"timestamp":"00:15:32.535","source":"Browser","level":"LOG","message":"Current user: cmn0axiia0000za7afbb2g106"}
+{"timestamp":"00:15:32.535","source":"Browser","level":"LOG","message":"Members: [{\"id\":\"cmn0cuvp50002qqwft7vaobur\",\"joinedAt\":\"2026-03-21T13:19:59.891Z\",\"role\":\"owner\",\"user\":{\"createdAt\":\"2026-03-21T12:26:03.634Z\",\"email\":\"engineer.aryan084@gmail.com\",\"id\":\"cmn0axiia0000za7afbb2g106\",\"name\":\"Aryan Pandey\"},\"userId\":\"cmn0axiia0000za7afbb2g106\",\"workspaceId\":\"cmn0cuvop0000qqwfdpj2ahgk\"}]"}
+{"timestamp":"00:15:32.535","source":"Browser","level":"LOG","message":"Is owner: true"}
+{"timestamp":"00:15:32.535","source":"Browser","level":"LOG","message":"Can invite: true"}
+{"timestamp":"00:15:32.535","source":"Browser","level":"LOG","message":"API Error: null"}
+{"timestamp":"00:15:33.006","source":"Browser","level":"LOG","message":"Token in localStorage: EXISTS"}
+{"timestamp":"00:15:33.006","source":"Browser","level":"LOG","message":"Current user: cmn0axiia0000za7afbb2g106"}
+{"timestamp":"00:15:33.006","source":"Browser","level":"LOG","message":"Members: [{\"id\":\"cmn0cuvp50002qqwft7vaobur\",\"joinedAt\":\"2026-03-21T13:19:59.891Z\",\"role\":\"owner\",\"user\":{\"createdAt\":\"2026-03-21T12:26:03.634Z\",\"email\":\"engineer.aryan084@gmail.com\",\"id\":\"cmn0axiia0000za7afbb2g106\",\"name\":\"Aryan Pandey\"},\"userId\":\"cmn0axiia0000za7afbb2g106\",\"workspaceId\":\"cmn0cuvop0000qqwfdpj2ahgk\"}]"}
+{"timestamp":"00:15:33.006","source":"Browser","level":"LOG","message":"Is owner: true"}
+{"timestamp":"00:15:33.006","source":"Browser","level":"LOG","message":"Can invite: true"}
+{"timestamp":"00:15:33.006","source":"Browser","level":"LOG","message":"API Error: null"}
+{"timestamp":"00:15:33.006","source":"Browser","level":"LOG","message":"Token in localStorage: EXISTS"}
+{"timestamp":"00:15:33.006","source":"Browser","level":"LOG","message":"Current user: cmn0axiia0000za7afbb2g106"}
+{"timestamp":"00:15:33.006","source":"Browser","level":"LOG","message":"Members: [{\"id\":\"cmn0cuvp50002qqwft7vaobur\",\"joinedAt\":\"2026-03-21T13:19:59.891Z\",\"role\":\"owner\",\"user\":{\"createdAt\":\"2026-03-21T12:26:03.634Z\",\"email\":\"engineer.aryan084@gmail.com\",\"id\":\"cmn0axiia0000za7afbb2g106\",\"name\":\"Aryan Pandey\"},\"userId\":\"cmn0axiia0000za7afbb2g106\",\"workspaceId\":\"cmn0cuvop0000qqwfdpj2ahgk\"}]"}
+{"timestamp":"00:15:33.006","source":"Browser","level":"LOG","message":"Is owner: true"}
+{"timestamp":"00:15:33.006","source":"Browser","level":"LOG","message":"Can invite: true"}
+{"timestamp":"00:15:33.006","source":"Browser","level":"LOG","message":"API Error: null"}
+{"timestamp":"00:15:34.344","source":"Browser","level":"LOG","message":"Token in localStorage: EXISTS"}
+{"timestamp":"00:15:34.344","source":"Browser","level":"LOG","message":"Current user: cmn0axiia0000za7afbb2g106"}
+{"timestamp":"00:15:34.344","source":"Browser","level":"LOG","message":"Members: [{\"id\":\"cmn0cuvp50002qqwft7vaobur\",\"joinedAt\":\"2026-03-21T13:19:59.891Z\",\"role\":\"owner\",\"user\":{\"createdAt\":\"2026-03-21T12:26:03.634Z\",\"email\":\"engineer.aryan084@gmail.com\",\"id\":\"cmn0axiia0000za7afbb2g106\",\"name\":\"Aryan Pandey\"},\"userId\":\"cmn0axiia0000za7afbb2g106\",\"workspaceId\":\"cmn0cuvop0000qqwfdpj2ahgk\"}]"}
+{"timestamp":"00:15:34.344","source":"Browser","level":"LOG","message":"Is owner: true"}
+{"timestamp":"00:15:34.344","source":"Browser","level":"LOG","message":"Can invite: true"}
+{"timestamp":"00:15:34.344","source":"Browser","level":"LOG","message":"API Error: null"}
+{"timestamp":"00:15:34.344","source":"Browser","level":"LOG","message":"Token in localStorage: EXISTS"}
+{"timestamp":"00:15:34.344","source":"Browser","level":"LOG","message":"Current user: cmn0axiia0000za7afbb2g106"}
+{"timestamp":"00:15:34.344","source":"Browser","level":"LOG","message":"Members: [{\"id\":\"cmn0cuvp50002qqwft7vaobur\",\"joinedAt\":\"2026-03-21T13:19:59.891Z\",\"role\":\"owner\",\"user\":{\"createdAt\":\"2026-03-21T12:26:03.634Z\",\"email\":\"engineer.aryan084@gmail.com\",\"id\":\"cmn0axiia0000za7afbb2g106\",\"name\":\"Aryan Pandey\"},\"userId\":\"cmn0axiia0000za7afbb2g106\",\"workspaceId\":\"cmn0cuvop0000qqwfdpj2ahgk\"}]"}
+{"timestamp":"00:15:34.344","source":"Browser","level":"LOG","message":"Is owner: true"}
+{"timestamp":"00:15:34.344","source":"Browser","level":"LOG","message":"Can invite: true"}
+{"timestamp":"00:15:34.344","source":"Browser","level":"LOG","message":"API Error: null"}
+{"timestamp":"00:15:35.033","source":"Browser","level":"LOG","message":"Token in localStorage: EXISTS"}
+{"timestamp":"00:15:35.033","source":"Browser","level":"LOG","message":"Current user: cmn0axiia0000za7afbb2g106"}
+{"timestamp":"00:15:35.033","source":"Browser","level":"LOG","message":"Members: [{\"id\":\"cmn0cuvp50002qqwft7vaobur\",\"joinedAt\":\"2026-03-21T13:19:59.891Z\",\"role\":\"owner\",\"user\":{\"createdAt\":\"2026-03-21T12:26:03.634Z\",\"email\":\"engineer.aryan084@gmail.com\",\"id\":\"cmn0axiia0000za7afbb2g106\",\"name\":\"Aryan Pandey\"},\"userId\":\"cmn0axiia0000za7afbb2g106\",\"workspaceId\":\"cmn0cuvop0000qqwfdpj2ahgk\"}]"}
+{"timestamp":"00:15:35.033","source":"Browser","level":"LOG","message":"Is owner: true"}
+{"timestamp":"00:15:35.033","source":"Browser","level":"LOG","message":"Can invite: true"}
+{"timestamp":"00:15:35.033","source":"Browser","level":"LOG","message":"API Error: null"}
+{"timestamp":"00:15:35.033","source":"Browser","level":"LOG","message":"Token in localStorage: EXISTS"}
+{"timestamp":"00:15:35.033","source":"Browser","level":"LOG","message":"Current user: cmn0axiia0000za7afbb2g106"}
+{"timestamp":"00:15:35.033","source":"Browser","level":"LOG","message":"Members: [{\"id\":\"cmn0cuvp50002qqwft7vaobur\",\"joinedAt\":\"2026-03-21T13:19:59.891Z\",\"role\":\"owner\",\"user\":{\"createdAt\":\"2026-03-21T12:26:03.634Z\",\"email\":\"engineer.aryan084@gmail.com\",\"id\":\"cmn0axiia0000za7afbb2g106\",\"name\":\"Aryan Pandey\"},\"userId\":\"cmn0axiia0000za7afbb2g106\",\"workspaceId\":\"cmn0cuvop0000qqwfdpj2ahgk\"}]"}
+{"timestamp":"00:15:35.033","source":"Browser","level":"LOG","message":"Is owner: true"}
+{"timestamp":"00:15:35.033","source":"Browser","level":"LOG","message":"Can invite: true"}
+{"timestamp":"00:15:35.033","source":"Browser","level":"LOG","message":"API Error: null"}
+{"timestamp":"00:15:35.217","source":"Browser","level":"LOG","message":"Token in localStorage: EXISTS"}
+{"timestamp":"00:15:35.217","source":"Browser","level":"LOG","message":"Current user: cmn0axiia0000za7afbb2g106"}
+{"timestamp":"00:15:35.217","source":"Browser","level":"LOG","message":"Members: [{\"id\":\"cmn0cuvp50002qqwft7vaobur\",\"joinedAt\":\"2026-03-21T13:19:59.891Z\",\"role\":\"owner\",\"user\":{\"createdAt\":\"2026-03-21T12:26:03.634Z\",\"email\":\"engineer.aryan084@gmail.com\",\"id\":\"cmn0axiia0000za7afbb2g106\",\"name\":\"Aryan Pandey\"},\"userId\":\"cmn0axiia0000za7afbb2g106\",\"workspaceId\":\"cmn0cuvop0000qqwfdpj2ahgk\"}]"}
+{"timestamp":"00:15:35.217","source":"Browser","level":"LOG","message":"Is owner: true"}
+{"timestamp":"00:15:35.217","source":"Browser","level":"LOG","message":"Can invite: true"}
+{"timestamp":"00:15:35.217","source":"Browser","level":"LOG","message":"API Error: null"}
+{"timestamp":"00:15:35.217","source":"Browser","level":"LOG","message":"Token in localStorage: EXISTS"}
+{"timestamp":"00:15:35.217","source":"Browser","level":"LOG","message":"Current user: cmn0axiia0000za7afbb2g106"}
+{"timestamp":"00:15:35.217","source":"Browser","level":"LOG","message":"Members: [{\"id\":\"cmn0cuvp50002qqwft7vaobur\",\"joinedAt\":\"2026-03-21T13:19:59.891Z\",\"role\":\"owner\",\"user\":{\"createdAt\":\"2026-03-21T12:26:03.634Z\",\"email\":\"engineer.aryan084@gmail.com\",\"id\":\"cmn0axiia0000za7afbb2g106\",\"name\":\"Aryan Pandey\"},\"userId\":\"cmn0axiia0000za7afbb2g106\",\"workspaceId\":\"cmn0cuvop0000qqwfdpj2ahgk\"}]"}
+{"timestamp":"00:15:35.217","source":"Browser","level":"LOG","message":"Is owner: true"}
+{"timestamp":"00:15:35.217","source":"Browser","level":"LOG","message":"Can invite: true"}
+{"timestamp":"00:15:35.217","source":"Browser","level":"LOG","message":"API Error: null"}
+{"timestamp":"00:15:35.354","source":"Browser","level":"LOG","message":"Token in localStorage: EXISTS"}
+{"timestamp":"00:15:35.354","source":"Browser","level":"LOG","message":"Current user: cmn0axiia0000za7afbb2g106"}
+{"timestamp":"00:15:35.354","source":"Browser","level":"LOG","message":"Members: [{\"id\":\"cmn0cuvp50002qqwft7vaobur\",\"joinedAt\":\"2026-03-21T13:19:59.891Z\",\"role\":\"owner\",\"user\":{\"createdAt\":\"2026-03-21T12:26:03.634Z\",\"email\":\"engineer.aryan084@gmail.com\",\"id\":\"cmn0axiia0000za7afbb2g106\",\"name\":\"Aryan Pandey\"},\"userId\":\"cmn0axiia0000za7afbb2g106\",\"workspaceId\":\"cmn0cuvop0000qqwfdpj2ahgk\"}]"}
+{"timestamp":"00:15:35.354","source":"Browser","level":"LOG","message":"Is owner: true"}
+{"timestamp":"00:15:35.354","source":"Browser","level":"LOG","message":"Can invite: true"}
+{"timestamp":"00:15:35.354","source":"Browser","level":"LOG","message":"API Error: null"}
+{"timestamp":"00:15:35.354","source":"Browser","level":"LOG","message":"Token in localStorage: EXISTS"}
+{"timestamp":"00:15:35.354","source":"Browser","level":"LOG","message":"Current user: cmn0axiia0000za7afbb2g106"}
+{"timestamp":"00:15:35.355","source":"Browser","level":"LOG","message":"Members: [{\"id\":\"cmn0cuvp50002qqwft7vaobur\",\"joinedAt\":\"2026-03-21T13:19:59.891Z\",\"role\":\"owner\",\"user\":{\"createdAt\":\"2026-03-21T12:26:03.634Z\",\"email\":\"engineer.aryan084@gmail.com\",\"id\":\"cmn0axiia0000za7afbb2g106\",\"name\":\"Aryan Pandey\"},\"userId\":\"cmn0axiia0000za7afbb2g106\",\"workspaceId\":\"cmn0cuvop0000qqwfdpj2ahgk\"}]"}
+{"timestamp":"00:15:35.355","source":"Browser","level":"LOG","message":"Is owner: true"}
+{"timestamp":"00:15:35.355","source":"Browser","level":"LOG","message":"Can invite: true"}
+{"timestamp":"00:15:35.355","source":"Browser","level":"LOG","message":"API Error: null"}
+{"timestamp":"00:15:35.544","source":"Browser","level":"LOG","message":"Token in localStorage: EXISTS"}
+{"timestamp":"00:15:35.544","source":"Browser","level":"LOG","message":"Current user: cmn0axiia0000za7afbb2g106"}
+{"timestamp":"00:15:35.544","source":"Browser","level":"LOG","message":"Members: [{\"id\":\"cmn0cuvp50002qqwft7vaobur\",\"joinedAt\":\"2026-03-21T13:19:59.891Z\",\"role\":\"owner\",\"user\":{\"createdAt\":\"2026-03-21T12:26:03.634Z\",\"email\":\"engineer.aryan084@gmail.com\",\"id\":\"cmn0axiia0000za7afbb2g106\",\"name\":\"Aryan Pandey\"},\"userId\":\"cmn0axiia0000za7afbb2g106\",\"workspaceId\":\"cmn0cuvop0000qqwfdpj2ahgk\"}]"}
+{"timestamp":"00:15:35.544","source":"Browser","level":"LOG","message":"Is owner: true"}
+{"timestamp":"00:15:35.544","source":"Browser","level":"LOG","message":"Can invite: true"}
+{"timestamp":"00:15:35.544","source":"Browser","level":"LOG","message":"API Error: null"}
+{"timestamp":"00:15:35.544","source":"Browser","level":"LOG","message":"Token in localStorage: EXISTS"}
+{"timestamp":"00:15:35.544","source":"Browser","level":"LOG","message":"Current user: cmn0axiia0000za7afbb2g106"}
+{"timestamp":"00:15:35.544","source":"Browser","level":"LOG","message":"Members: [{\"id\":\"cmn0cuvp50002qqwft7vaobur\",\"joinedAt\":\"2026-03-21T13:19:59.891Z\",\"role\":\"owner\",\"user\":{\"createdAt\":\"2026-03-21T12:26:03.634Z\",\"email\":\"engineer.aryan084@gmail.com\",\"id\":\"cmn0axiia0000za7afbb2g106\",\"name\":\"Aryan Pandey\"},\"userId\":\"cmn0axiia0000za7afbb2g106\",\"workspaceId\":\"cmn0cuvop0000qqwfdpj2ahgk\"}]"}
+{"timestamp":"00:15:35.544","source":"Browser","level":"LOG","message":"Is owner: true"}
+{"timestamp":"00:15:35.544","source":"Browser","level":"LOG","message":"Can invite: true"}
+{"timestamp":"00:15:35.544","source":"Browser","level":"LOG","message":"API Error: null"}
+{"timestamp":"00:15:41.588","source":"Browser","level":"LOG","message":"Token in localStorage: EXISTS"}
+{"timestamp":"00:15:41.588","source":"Browser","level":"LOG","message":"Current user: cmn0axiia0000za7afbb2g106"}
+{"timestamp":"00:15:41.588","source":"Browser","level":"LOG","message":"Members: [{\"id\":\"cmn0cuvp50002qqwft7vaobur\",\"joinedAt\":\"2026-03-21T13:19:59.891Z\",\"role\":\"owner\",\"user\":{\"createdAt\":\"2026-03-21T12:26:03.634Z\",\"email\":\"engineer.aryan084@gmail.com\",\"id\":\"cmn0axiia0000za7afbb2g106\",\"name\":\"Aryan Pandey\"},\"userId\":\"cmn0axiia0000za7afbb2g106\",\"workspaceId\":\"cmn0cuvop0000qqwfdpj2ahgk\"}]"}
+{"timestamp":"00:15:41.588","source":"Browser","level":"LOG","message":"Is owner: true"}
+{"timestamp":"00:15:41.588","source":"Browser","level":"LOG","message":"Can invite: true"}
+{"timestamp":"00:15:41.588","source":"Browser","level":"LOG","message":"API Error: null"}
+{"timestamp":"00:15:41.588","source":"Browser","level":"LOG","message":"Token in localStorage: EXISTS"}
+{"timestamp":"00:15:41.588","source":"Browser","level":"LOG","message":"Current user: cmn0axiia0000za7afbb2g106"}
+{"timestamp":"00:15:41.588","source":"Browser","level":"LOG","message":"Members: [{\"id\":\"cmn0cuvp50002qqwft7vaobur\",\"joinedAt\":\"2026-03-21T13:19:59.891Z\",\"role\":\"owner\",\"user\":{\"createdAt\":\"2026-03-21T12:26:03.634Z\",\"email\":\"engineer.aryan084@gmail.com\",\"id\":\"cmn0axiia0000za7afbb2g106\",\"name\":\"Aryan Pandey\"},\"userId\":\"cmn0axiia0000za7afbb2g106\",\"workspaceId\":\"cmn0cuvop0000qqwfdpj2ahgk\"}]"}
+{"timestamp":"00:15:41.588","source":"Browser","level":"LOG","message":"Is owner: true"}
+{"timestamp":"00:15:41.588","source":"Browser","level":"LOG","message":"Can invite: true"}
+{"timestamp":"00:15:41.588","source":"Browser","level":"LOG","message":"API Error: null"}
+{"timestamp":"00:15:42.105","source":"Browser","level":"LOG","message":"Token in localStorage: EXISTS"}
+{"timestamp":"00:15:42.105","source":"Browser","level":"LOG","message":"Current user: cmn0axiia0000za7afbb2g106"}
+{"timestamp":"00:15:42.105","source":"Browser","level":"LOG","message":"Members: [{\"id\":\"cmn0cuvp50002qqwft7vaobur\",\"joinedAt\":\"2026-03-21T13:19:59.891Z\",\"role\":\"owner\",\"user\":{\"createdAt\":\"2026-03-21T12:26:03.634Z\",\"email\":\"engineer.aryan084@gmail.com\",\"id\":\"cmn0axiia0000za7afbb2g106\",\"name\":\"Aryan Pandey\"},\"userId\":\"cmn0axiia0000za7afbb2g106\",\"workspaceId\":\"cmn0cuvop0000qqwfdpj2ahgk\"}]"}
+{"timestamp":"00:15:42.105","source":"Browser","level":"LOG","message":"Is owner: true"}
+{"timestamp":"00:15:42.105","source":"Browser","level":"LOG","message":"Can invite: true"}
+{"timestamp":"00:15:42.105","source":"Browser","level":"LOG","message":"API Error: null"}
+{"timestamp":"00:15:42.105","source":"Browser","level":"LOG","message":"Token in localStorage: EXISTS"}
+{"timestamp":"00:15:42.105","source":"Browser","level":"LOG","message":"Current user: cmn0axiia0000za7afbb2g106"}
+{"timestamp":"00:15:42.105","source":"Browser","level":"LOG","message":"Members: [{\"id\":\"cmn0cuvp50002qqwft7vaobur\",\"joinedAt\":\"2026-03-21T13:19:59.891Z\",\"role\":\"owner\",\"user\":{\"createdAt\":\"2026-03-21T12:26:03.634Z\",\"email\":\"engineer.aryan084@gmail.com\",\"id\":\"cmn0axiia0000za7afbb2g106\",\"name\":\"Aryan Pandey\"},\"userId\":\"cmn0axiia0000za7afbb2g106\",\"workspaceId\":\"cmn0cuvop0000qqwfdpj2ahgk\"}]"}
+{"timestamp":"00:15:42.105","source":"Browser","level":"LOG","message":"Is owner: true"}
+{"timestamp":"00:15:42.105","source":"Browser","level":"LOG","message":"Can invite: true"}
+{"timestamp":"00:15:42.105","source":"Browser","level":"LOG","message":"API Error: null"}
+{"timestamp":"00:15:42.223","source":"Browser","level":"LOG","message":"Token in localStorage: EXISTS"}
+{"timestamp":"00:15:42.223","source":"Browser","level":"LOG","message":"Current user: cmn0axiia0000za7afbb2g106"}
+{"timestamp":"00:15:42.223","source":"Browser","level":"LOG","message":"Members: [{\"id\":\"cmn0cuvp50002qqwft7vaobur\",\"joinedAt\":\"2026-03-21T13:19:59.891Z\",\"role\":\"owner\",\"user\":{\"createdAt\":\"2026-03-21T12:26:03.634Z\",\"email\":\"engineer.aryan084@gmail.com\",\"id\":\"cmn0axiia0000za7afbb2g106\",\"name\":\"Aryan Pandey\"},\"userId\":\"cmn0axiia0000za7afbb2g106\",\"workspaceId\":\"cmn0cuvop0000qqwfdpj2ahgk\"}]"}
+{"timestamp":"00:15:42.223","source":"Browser","level":"LOG","message":"Is owner: true"}
+{"timestamp":"00:15:42.223","source":"Browser","level":"LOG","message":"Can invite: true"}
+{"timestamp":"00:15:42.223","source":"Browser","level":"LOG","message":"API Error: null"}
+{"timestamp":"00:15:42.223","source":"Browser","level":"LOG","message":"Token in localStorage: EXISTS"}
+{"timestamp":"00:15:42.223","source":"Browser","level":"LOG","message":"Current user: cmn0axiia0000za7afbb2g106"}
+{"timestamp":"00:15:42.223","source":"Browser","level":"LOG","message":"Members: [{\"id\":\"cmn0cuvp50002qqwft7vaobur\",\"joinedAt\":\"2026-03-21T13:19:59.891Z\",\"role\":\"owner\",\"user\":{\"createdAt\":\"2026-03-21T12:26:03.634Z\",\"email\":\"engineer.aryan084@gmail.com\",\"id\":\"cmn0axiia0000za7afbb2g106\",\"name\":\"Aryan Pandey\"},\"userId\":\"cmn0axiia0000za7afbb2g106\",\"workspaceId\":\"cmn0cuvop0000qqwfdpj2ahgk\"}]"}
+{"timestamp":"00:15:42.223","source":"Browser","level":"LOG","message":"Is owner: true"}
+{"timestamp":"00:15:42.223","source":"Browser","level":"LOG","message":"Can invite: true"}
+{"timestamp":"00:15:42.223","source":"Browser","level":"LOG","message":"API Error: null"}
+{"timestamp":"00:15:42.433","source":"Browser","level":"LOG","message":"Token in localStorage: EXISTS"}
+{"timestamp":"00:15:42.433","source":"Browser","level":"LOG","message":"Current user: cmn0axiia0000za7afbb2g106"}
+{"timestamp":"00:15:42.433","source":"Browser","level":"LOG","message":"Members: [{\"id\":\"cmn0cuvp50002qqwft7vaobur\",\"joinedAt\":\"2026-03-21T13:19:59.891Z\",\"role\":\"owner\",\"user\":{\"createdAt\":\"2026-03-21T12:26:03.634Z\",\"email\":\"engineer.aryan084@gmail.com\",\"id\":\"cmn0axiia0000za7afbb2g106\",\"name\":\"Aryan Pandey\"},\"userId\":\"cmn0axiia0000za7afbb2g106\",\"workspaceId\":\"cmn0cuvop0000qqwfdpj2ahgk\"}]"}
+{"timestamp":"00:15:42.434","source":"Browser","level":"LOG","message":"Is owner: true"}
+{"timestamp":"00:15:42.434","source":"Browser","level":"LOG","message":"Can invite: true"}
+{"timestamp":"00:15:42.434","source":"Browser","level":"LOG","message":"API Error: null"}
+{"timestamp":"00:15:42.434","source":"Browser","level":"LOG","message":"Token in localStorage: EXISTS"}
+{"timestamp":"00:15:42.434","source":"Browser","level":"LOG","message":"Current user: cmn0axiia0000za7afbb2g106"}
+{"timestamp":"00:15:42.434","source":"Browser","level":"LOG","message":"Members: [{\"id\":\"cmn0cuvp50002qqwft7vaobur\",\"joinedAt\":\"2026-03-21T13:19:59.891Z\",\"role\":\"owner\",\"user\":{\"createdAt\":\"2026-03-21T12:26:03.634Z\",\"email\":\"engineer.aryan084@gmail.com\",\"id\":\"cmn0axiia0000za7afbb2g106\",\"name\":\"Aryan Pandey\"},\"userId\":\"cmn0axiia0000za7afbb2g106\",\"workspaceId\":\"cmn0cuvop0000qqwfdpj2ahgk\"}]"}
+{"timestamp":"00:15:42.434","source":"Browser","level":"LOG","message":"Is owner: true"}
+{"timestamp":"00:15:42.434","source":"Browser","level":"LOG","message":"Can invite: true"}
+{"timestamp":"00:15:42.434","source":"Browser","level":"LOG","message":"API Error: null"}
+{"timestamp":"00:15:42.596","source":"Browser","level":"LOG","message":"Token in localStorage: EXISTS"}
+{"timestamp":"00:15:42.596","source":"Browser","level":"LOG","message":"Current user: cmn0axiia0000za7afbb2g106"}
+{"timestamp":"00:15:42.596","source":"Browser","level":"LOG","message":"Members: [{\"id\":\"cmn0cuvp50002qqwft7vaobur\",\"joinedAt\":\"2026-03-21T13:19:59.891Z\",\"role\":\"owner\",\"user\":{\"createdAt\":\"2026-03-21T12:26:03.634Z\",\"email\":\"engineer.aryan084@gmail.com\",\"id\":\"cmn0axiia0000za7afbb2g106\",\"name\":\"Aryan Pandey\"},\"userId\":\"cmn0axiia0000za7afbb2g106\",\"workspaceId\":\"cmn0cuvop0000qqwfdpj2ahgk\"}]"}
+{"timestamp":"00:15:42.596","source":"Browser","level":"LOG","message":"Is owner: true"}
+{"timestamp":"00:15:42.596","source":"Browser","level":"LOG","message":"Can invite: true"}
+{"timestamp":"00:15:42.596","source":"Browser","level":"LOG","message":"API Error: null"}
+{"timestamp":"00:15:42.596","source":"Browser","level":"LOG","message":"Token in localStorage: EXISTS"}
+{"timestamp":"00:15:42.596","source":"Browser","level":"LOG","message":"Current user: cmn0axiia0000za7afbb2g106"}
+{"timestamp":"00:15:42.596","source":"Browser","level":"LOG","message":"Members: [{\"id\":\"cmn0cuvp50002qqwft7vaobur\",\"joinedAt\":\"2026-03-21T13:19:59.891Z\",\"role\":\"owner\",\"user\":{\"createdAt\":\"2026-03-21T12:26:03.634Z\",\"email\":\"engineer.aryan084@gmail.com\",\"id\":\"cmn0axiia0000za7afbb2g106\",\"name\":\"Aryan Pandey\"},\"userId\":\"cmn0axiia0000za7afbb2g106\",\"workspaceId\":\"cmn0cuvop0000qqwfdpj2ahgk\"}]"}
+{"timestamp":"00:15:42.596","source":"Browser","level":"LOG","message":"Is owner: true"}
+{"timestamp":"00:15:42.597","source":"Browser","level":"LOG","message":"Can invite: true"}
+{"timestamp":"00:15:42.597","source":"Browser","level":"LOG","message":"API Error: null"}
+{"timestamp":"00:15:42.784","source":"Browser","level":"LOG","message":"Token in localStorage: EXISTS"}
+{"timestamp":"00:15:42.785","source":"Browser","level":"LOG","message":"Current user: cmn0axiia0000za7afbb2g106"}
+{"timestamp":"00:15:42.785","source":"Browser","level":"LOG","message":"Members: [{\"id\":\"cmn0cuvp50002qqwft7vaobur\",\"joinedAt\":\"2026-03-21T13:19:59.891Z\",\"role\":\"owner\",\"user\":{\"createdAt\":\"2026-03-21T12:26:03.634Z\",\"email\":\"engineer.aryan084@gmail.com\",\"id\":\"cmn0axiia0000za7afbb2g106\",\"name\":\"Aryan Pandey\"},\"userId\":\"cmn0axiia0000za7afbb2g106\",\"workspaceId\":\"cmn0cuvop0000qqwfdpj2ahgk\"}]"}
+{"timestamp":"00:15:42.785","source":"Browser","level":"LOG","message":"Is owner: true"}
+{"timestamp":"00:15:42.785","source":"Browser","level":"LOG","message":"Can invite: true"}
+{"timestamp":"00:15:42.785","source":"Browser","level":"LOG","message":"API Error: null"}
+{"timestamp":"00:15:42.785","source":"Browser","level":"LOG","message":"Token in localStorage: EXISTS"}
+{"timestamp":"00:15:42.785","source":"Browser","level":"LOG","message":"Current user: cmn0axiia0000za7afbb2g106"}
+{"timestamp":"00:15:42.785","source":"Browser","level":"LOG","message":"Members: [{\"id\":\"cmn0cuvp50002qqwft7vaobur\",\"joinedAt\":\"2026-03-21T13:19:59.891Z\",\"role\":\"owner\",\"user\":{\"createdAt\":\"2026-03-21T12:26:03.634Z\",\"email\":\"engineer.aryan084@gmail.com\",\"id\":\"cmn0axiia0000za7afbb2g106\",\"name\":\"Aryan Pandey\"},\"userId\":\"cmn0axiia0000za7afbb2g106\",\"workspaceId\":\"cmn0cuvop0000qqwfdpj2ahgk\"}]"}
+{"timestamp":"00:15:42.785","source":"Browser","level":"LOG","message":"Is owner: true"}
+{"timestamp":"00:15:42.785","source":"Browser","level":"LOG","message":"Can invite: true"}
+{"timestamp":"00:15:42.785","source":"Browser","level":"LOG","message":"API Error: null"}
+{"timestamp":"00:15:43.429","source":"Browser","level":"LOG","message":"Token in localStorage: EXISTS"}
+{"timestamp":"00:15:43.429","source":"Browser","level":"LOG","message":"Current user: cmn0axiia0000za7afbb2g106"}
+{"timestamp":"00:15:43.429","source":"Browser","level":"LOG","message":"Members: [{\"id\":\"cmn0cuvp50002qqwft7vaobur\",\"joinedAt\":\"2026-03-21T13:19:59.891Z\",\"role\":\"owner\",\"user\":{\"createdAt\":\"2026-03-21T12:26:03.634Z\",\"email\":\"engineer.aryan084@gmail.com\",\"id\":\"cmn0axiia0000za7afbb2g106\",\"name\":\"Aryan Pandey\"},\"userId\":\"cmn0axiia0000za7afbb2g106\",\"workspaceId\":\"cmn0cuvop0000qqwfdpj2ahgk\"}]"}
+{"timestamp":"00:15:43.429","source":"Browser","level":"LOG","message":"Is owner: true"}
+{"timestamp":"00:15:43.429","source":"Browser","level":"LOG","message":"Can invite: true"}
+{"timestamp":"00:15:43.429","source":"Browser","level":"LOG","message":"API Error: null"}
+{"timestamp":"00:15:43.429","source":"Browser","level":"LOG","message":"Token in localStorage: EXISTS"}
+{"timestamp":"00:15:43.429","source":"Browser","level":"LOG","message":"Current user: cmn0axiia0000za7afbb2g106"}
+{"timestamp":"00:15:43.429","source":"Browser","level":"LOG","message":"Members: [{\"id\":\"cmn0cuvp50002qqwft7vaobur\",\"joinedAt\":\"2026-03-21T13:19:59.891Z\",\"role\":\"owner\",\"user\":{\"createdAt\":\"2026-03-21T12:26:03.634Z\",\"email\":\"engineer.aryan084@gmail.com\",\"id\":\"cmn0axiia0000za7afbb2g106\",\"name\":\"Aryan Pandey\"},\"userId\":\"cmn0axiia0000za7afbb2g106\",\"workspaceId\":\"cmn0cuvop0000qqwfdpj2ahgk\"}]"}
+{"timestamp":"00:15:43.429","source":"Browser","level":"LOG","message":"Is owner: true"}
+{"timestamp":"00:15:43.429","source":"Browser","level":"LOG","message":"Can invite: true"}
+{"timestamp":"00:15:43.429","source":"Browser","level":"LOG","message":"API Error: null"}
+{"timestamp":"00:15:43.775","source":"Browser","level":"LOG","message":"Token in localStorage: EXISTS"}
+{"timestamp":"00:15:43.775","source":"Browser","level":"LOG","message":"Current user: cmn0axiia0000za7afbb2g106"}
+{"timestamp":"00:15:43.776","source":"Browser","level":"LOG","message":"Members: [{\"id\":\"cmn0cuvp50002qqwft7vaobur\",\"joinedAt\":\"2026-03-21T13:19:59.891Z\",\"role\":\"owner\",\"user\":{\"createdAt\":\"2026-03-21T12:26:03.634Z\",\"email\":\"engineer.aryan084@gmail.com\",\"id\":\"cmn0axiia0000za7afbb2g106\",\"name\":\"Aryan Pandey\"},\"userId\":\"cmn0axiia0000za7afbb2g106\",\"workspaceId\":\"cmn0cuvop0000qqwfdpj2ahgk\"}]"}
+{"timestamp":"00:15:43.776","source":"Browser","level":"LOG","message":"Is owner: true"}
+{"timestamp":"00:15:43.776","source":"Browser","level":"LOG","message":"Can invite: true"}
+{"timestamp":"00:15:43.776","source":"Browser","level":"LOG","message":"API Error: null"}
+{"timestamp":"00:15:43.776","source":"Browser","level":"LOG","message":"Token in localStorage: EXISTS"}
+{"timestamp":"00:15:43.776","source":"Browser","level":"LOG","message":"Current user: cmn0axiia0000za7afbb2g106"}
+{"timestamp":"00:15:43.776","source":"Browser","level":"LOG","message":"Members: [{\"id\":\"cmn0cuvp50002qqwft7vaobur\",\"joinedAt\":\"2026-03-21T13:19:59.891Z\",\"role\":\"owner\",\"user\":{\"createdAt\":\"2026-03-21T12:26:03.634Z\",\"email\":\"engineer.aryan084@gmail.com\",\"id\":\"cmn0axiia0000za7afbb2g106\",\"name\":\"Aryan Pandey\"},\"userId\":\"cmn0axiia0000za7afbb2g106\",\"workspaceId\":\"cmn0cuvop0000qqwfdpj2ahgk\"}]"}
+{"timestamp":"00:15:43.776","source":"Browser","level":"LOG","message":"Is owner: true"}
+{"timestamp":"00:15:43.776","source":"Browser","level":"LOG","message":"Can invite: true"}
+{"timestamp":"00:15:43.776","source":"Browser","level":"LOG","message":"API Error: null"}
+{"timestamp":"00:15:43.958","source":"Browser","level":"LOG","message":"Token in localStorage: EXISTS"}
+{"timestamp":"00:15:43.958","source":"Browser","level":"LOG","message":"Current user: cmn0axiia0000za7afbb2g106"}
+{"timestamp":"00:15:43.958","source":"Browser","level":"LOG","message":"Members: [{\"id\":\"cmn0cuvp50002qqwft7vaobur\",\"joinedAt\":\"2026-03-21T13:19:59.891Z\",\"role\":\"owner\",\"user\":{\"createdAt\":\"2026-03-21T12:26:03.634Z\",\"email\":\"engineer.aryan084@gmail.com\",\"id\":\"cmn0axiia0000za7afbb2g106\",\"name\":\"Aryan Pandey\"},\"userId\":\"cmn0axiia0000za7afbb2g106\",\"workspaceId\":\"cmn0cuvop0000qqwfdpj2ahgk\"}]"}
+{"timestamp":"00:15:43.958","source":"Browser","level":"LOG","message":"Is owner: true"}
+{"timestamp":"00:15:43.958","source":"Browser","level":"LOG","message":"Can invite: true"}
+{"timestamp":"00:15:43.958","source":"Browser","level":"LOG","message":"API Error: null"}
+{"timestamp":"00:15:43.958","source":"Browser","level":"LOG","message":"Token in localStorage: EXISTS"}
+{"timestamp":"00:15:43.958","source":"Browser","level":"LOG","message":"Current user: cmn0axiia0000za7afbb2g106"}
+{"timestamp":"00:15:43.958","source":"Browser","level":"LOG","message":"Members: [{\"id\":\"cmn0cuvp50002qqwft7vaobur\",\"joinedAt\":\"2026-03-21T13:19:59.891Z\",\"role\":\"owner\",\"user\":{\"createdAt\":\"2026-03-21T12:26:03.634Z\",\"email\":\"engineer.aryan084@gmail.com\",\"id\":\"cmn0axiia0000za7afbb2g106\",\"name\":\"Aryan Pandey\"},\"userId\":\"cmn0axiia0000za7afbb2g106\",\"workspaceId\":\"cmn0cuvop0000qqwfdpj2ahgk\"}]"}
+{"timestamp":"00:15:43.958","source":"Browser","level":"LOG","message":"Is owner: true"}
+{"timestamp":"00:15:43.958","source":"Browser","level":"LOG","message":"Can invite: true"}
+{"timestamp":"00:15:43.958","source":"Browser","level":"LOG","message":"API Error: null"}
+{"timestamp":"00:15:44.065","source":"Browser","level":"LOG","message":"Token in localStorage: EXISTS"}
+{"timestamp":"00:15:44.065","source":"Browser","level":"LOG","message":"Current user: cmn0axiia0000za7afbb2g106"}
+{"timestamp":"00:15:44.065","source":"Browser","level":"LOG","message":"Members: [{\"id\":\"cmn0cuvp50002qqwft7vaobur\",\"joinedAt\":\"2026-03-21T13:19:59.891Z\",\"role\":\"owner\",\"user\":{\"createdAt\":\"2026-03-21T12:26:03.634Z\",\"email\":\"engineer.aryan084@gmail.com\",\"id\":\"cmn0axiia0000za7afbb2g106\",\"name\":\"Aryan Pandey\"},\"userId\":\"cmn0axiia0000za7afbb2g106\",\"workspaceId\":\"cmn0cuvop0000qqwfdpj2ahgk\"}]"}
+{"timestamp":"00:15:44.065","source":"Browser","level":"LOG","message":"Is owner: true"}
+{"timestamp":"00:15:44.065","source":"Browser","level":"LOG","message":"Can invite: true"}
+{"timestamp":"00:15:44.065","source":"Browser","level":"LOG","message":"API Error: null"}
+{"timestamp":"00:15:44.065","source":"Browser","level":"LOG","message":"Token in localStorage: EXISTS"}
+{"timestamp":"00:15:44.065","source":"Browser","level":"LOG","message":"Current user: cmn0axiia0000za7afbb2g106"}
+{"timestamp":"00:15:44.065","source":"Browser","level":"LOG","message":"Members: [{\"id\":\"cmn0cuvp50002qqwft7vaobur\",\"joinedAt\":\"2026-03-21T13:19:59.891Z\",\"role\":\"owner\",\"user\":{\"createdAt\":\"2026-03-21T12:26:03.634Z\",\"email\":\"engineer.aryan084@gmail.com\",\"id\":\"cmn0axiia0000za7afbb2g106\",\"name\":\"Aryan Pandey\"},\"userId\":\"cmn0axiia0000za7afbb2g106\",\"workspaceId\":\"cmn0cuvop0000qqwfdpj2ahgk\"}]"}
+{"timestamp":"00:15:44.065","source":"Browser","level":"LOG","message":"Is owner: true"}
+{"timestamp":"00:15:44.065","source":"Browser","level":"LOG","message":"Can invite: true"}
+{"timestamp":"00:15:44.065","source":"Browser","level":"LOG","message":"API Error: null"}
+{"timestamp":"00:15:46.694","source":"Browser","level":"LOG","message":"Token in localStorage: EXISTS"}
+{"timestamp":"00:15:46.694","source":"Browser","level":"LOG","message":"Current user: cmn0axiia0000za7afbb2g106"}
+{"timestamp":"00:15:46.694","source":"Browser","level":"LOG","message":"Members: [{\"id\":\"cmn0cuvp50002qqwft7vaobur\",\"joinedAt\":\"2026-03-21T13:19:59.891Z\",\"role\":\"owner\",\"user\":{\"createdAt\":\"2026-03-21T12:26:03.634Z\",\"email\":\"engineer.aryan084@gmail.com\",\"id\":\"cmn0axiia0000za7afbb2g106\",\"name\":\"Aryan Pandey\"},\"userId\":\"cmn0axiia0000za7afbb2g106\",\"workspaceId\":\"cmn0cuvop0000qqwfdpj2ahgk\"}]"}
+{"timestamp":"00:15:46.694","source":"Browser","level":"LOG","message":"Is owner: true"}
+{"timestamp":"00:15:46.694","source":"Browser","level":"LOG","message":"Can invite: true"}
+{"timestamp":"00:15:46.694","source":"Browser","level":"LOG","message":"API Error: null"}
+{"timestamp":"00:15:46.695","source":"Browser","level":"LOG","message":"Token in localStorage: EXISTS"}
+{"timestamp":"00:15:46.695","source":"Browser","level":"LOG","message":"Current user: cmn0axiia0000za7afbb2g106"}
+{"timestamp":"00:15:46.695","source":"Browser","level":"LOG","message":"Members: [{\"id\":\"cmn0cuvp50002qqwft7vaobur\",\"joinedAt\":\"2026-03-21T13:19:59.891Z\",\"role\":\"owner\",\"user\":{\"createdAt\":\"2026-03-21T12:26:03.634Z\",\"email\":\"engineer.aryan084@gmail.com\",\"id\":\"cmn0axiia0000za7afbb2g106\",\"name\":\"Aryan Pandey\"},\"userId\":\"cmn0axiia0000za7afbb2g106\",\"workspaceId\":\"cmn0cuvop0000qqwfdpj2ahgk\"}]"}
+{"timestamp":"00:15:46.695","source":"Browser","level":"LOG","message":"Is owner: true"}
+{"timestamp":"00:15:46.695","source":"Browser","level":"LOG","message":"Can invite: true"}
+{"timestamp":"00:15:46.695","source":"Browser","level":"LOG","message":"API Error: null"}
+{"timestamp":"00:15:48.854","source":"Browser","level":"LOG","message":"Token in localStorage: EXISTS"}
+{"timestamp":"00:15:48.854","source":"Browser","level":"LOG","message":"Current user: cmn0axiia0000za7afbb2g106"}
+{"timestamp":"00:15:48.854","source":"Browser","level":"LOG","message":"Members: [{\"id\":\"cmn0cuvp50002qqwft7vaobur\",\"joinedAt\":\"2026-03-21T13:19:59.891Z\",\"role\":\"owner\",\"user\":{\"createdAt\":\"2026-03-21T12:26:03.634Z\",\"email\":\"engineer.aryan084@gmail.com\",\"id\":\"cmn0axiia0000za7afbb2g106\",\"name\":\"Aryan Pandey\"},\"userId\":\"cmn0axiia0000za7afbb2g106\",\"workspaceId\":\"cmn0cuvop0000qqwfdpj2ahgk\"}]"}
+{"timestamp":"00:15:48.854","source":"Browser","level":"LOG","message":"Is owner: true"}
+{"timestamp":"00:15:48.854","source":"Browser","level":"LOG","message":"Can invite: true"}
+{"timestamp":"00:15:48.854","source":"Browser","level":"LOG","message":"API Error: null"}
+{"timestamp":"00:15:48.854","source":"Browser","level":"LOG","message":"Token in localStorage: EXISTS"}
+{"timestamp":"00:15:48.854","source":"Browser","level":"LOG","message":"Current user: cmn0axiia0000za7afbb2g106"}
+{"timestamp":"00:15:48.854","source":"Browser","level":"LOG","message":"Members: [{\"id\":\"cmn0cuvp50002qqwft7vaobur\",\"joinedAt\":\"2026-03-21T13:19:59.891Z\",\"role\":\"owner\",\"user\":{\"createdAt\":\"2026-03-21T12:26:03.634Z\",\"email\":\"engineer.aryan084@gmail.com\",\"id\":\"cmn0axiia0000za7afbb2g106\",\"name\":\"Aryan Pandey\"},\"userId\":\"cmn0axiia0000za7afbb2g106\",\"workspaceId\":\"cmn0cuvop0000qqwfdpj2ahgk\"}]"}
+{"timestamp":"00:15:48.854","source":"Browser","level":"LOG","message":"Is owner: true"}
+{"timestamp":"00:15:48.854","source":"Browser","level":"LOG","message":"Can invite: true"}
+{"timestamp":"00:15:48.855","source":"Browser","level":"LOG","message":"API Error: null"}
+{"timestamp":"00:15:50.540","source":"Browser","level":"LOG","message":"Token in localStorage: EXISTS"}
+{"timestamp":"00:15:50.540","source":"Browser","level":"LOG","message":"Current user: cmn0axiia0000za7afbb2g106"}
+{"timestamp":"00:15:50.540","source":"Browser","level":"LOG","message":"Members: [{\"id\":\"cmn0cuvp50002qqwft7vaobur\",\"joinedAt\":\"2026-03-21T13:19:59.891Z\",\"role\":\"owner\",\"user\":{\"createdAt\":\"2026-03-21T12:26:03.634Z\",\"email\":\"engineer.aryan084@gmail.com\",\"id\":\"cmn0axiia0000za7afbb2g106\",\"name\":\"Aryan Pandey\"},\"userId\":\"cmn0axiia0000za7afbb2g106\",\"workspaceId\":\"cmn0cuvop0000qqwfdpj2ahgk\"}]"}
+{"timestamp":"00:15:50.540","source":"Browser","level":"LOG","message":"Is owner: true"}
+{"timestamp":"00:15:50.540","source":"Browser","level":"LOG","message":"Can invite: true"}
+{"timestamp":"00:15:50.540","source":"Browser","level":"LOG","message":"API Error: null"}
+{"timestamp":"00:15:50.541","source":"Browser","level":"LOG","message":"Token in localStorage: EXISTS"}
+{"timestamp":"00:15:50.541","source":"Browser","level":"LOG","message":"Current user: cmn0axiia0000za7afbb2g106"}
+{"timestamp":"00:15:50.541","source":"Browser","level":"LOG","message":"Members: [{\"id\":\"cmn0cuvp50002qqwft7vaobur\",\"joinedAt\":\"2026-03-21T13:19:59.891Z\",\"role\":\"owner\",\"user\":{\"createdAt\":\"2026-03-21T12:26:03.634Z\",\"email\":\"engineer.aryan084@gmail.com\",\"id\":\"cmn0axiia0000za7afbb2g106\",\"name\":\"Aryan Pandey\"},\"userId\":\"cmn0axiia0000za7afbb2g106\",\"workspaceId\":\"cmn0cuvop0000qqwfdpj2ahgk\"}]"}
+{"timestamp":"00:15:50.541","source":"Browser","level":"LOG","message":"Is owner: true"}
+{"timestamp":"00:15:50.541","source":"Browser","level":"LOG","message":"Can invite: true"}
+{"timestamp":"00:15:50.541","source":"Browser","level":"LOG","message":"API Error: null"}
+{"timestamp":"00:15:52.674","source":"Browser","level":"LOG","message":"Token in localStorage: EXISTS"}
+{"timestamp":"00:15:52.674","source":"Browser","level":"LOG","message":"Current user: cmn0axiia0000za7afbb2g106"}
+{"timestamp":"00:15:52.674","source":"Browser","level":"LOG","message":"Members: [{\"id\":\"cmn0cuvp50002qqwft7vaobur\",\"joinedAt\":\"2026-03-21T13:19:59.891Z\",\"role\":\"owner\",\"user\":{\"createdAt\":\"2026-03-21T12:26:03.634Z\",\"email\":\"engineer.aryan084@gmail.com\",\"id\":\"cmn0axiia0000za7afbb2g106\",\"name\":\"Aryan Pandey\"},\"userId\":\"cmn0axiia0000za7afbb2g106\",\"workspaceId\":\"cmn0cuvop0000qqwfdpj2ahgk\"}]"}
+{"timestamp":"00:15:52.675","source":"Browser","level":"LOG","message":"Is owner: true"}
+{"timestamp":"00:15:52.675","source":"Browser","level":"LOG","message":"Can invite: true"}
+{"timestamp":"00:15:52.675","source":"Browser","level":"LOG","message":"API Error: null"}
+{"timestamp":"00:15:52.675","source":"Browser","level":"LOG","message":"Token in localStorage: EXISTS"}
+{"timestamp":"00:15:52.675","source":"Browser","level":"LOG","message":"Current user: cmn0axiia0000za7afbb2g106"}
+{"timestamp":"00:15:52.675","source":"Browser","level":"LOG","message":"Members: [{\"id\":\"cmn0cuvp50002qqwft7vaobur\",\"joinedAt\":\"2026-03-21T13:19:59.891Z\",\"role\":\"owner\",\"user\":{\"createdAt\":\"2026-03-21T12:26:03.634Z\",\"email\":\"engineer.aryan084@gmail.com\",\"id\":\"cmn0axiia0000za7afbb2g106\",\"name\":\"Aryan Pandey\"},\"userId\":\"cmn0axiia0000za7afbb2g106\",\"workspaceId\":\"cmn0cuvop0000qqwfdpj2ahgk\"}]"}
+{"timestamp":"00:15:52.675","source":"Browser","level":"LOG","message":"Is owner: true"}
+{"timestamp":"00:15:52.675","source":"Browser","level":"LOG","message":"Can invite: true"}
+{"timestamp":"00:15:52.675","source":"Browser","level":"LOG","message":"API Error: null"}
+{"timestamp":"00:15:55.299","source":"Browser","level":"LOG","message":"Token in localStorage: EXISTS"}
+{"timestamp":"00:15:55.299","source":"Browser","level":"LOG","message":"Current user: cmn0axiia0000za7afbb2g106"}
+{"timestamp":"00:15:55.299","source":"Browser","level":"LOG","message":"Members: [{\"id\":\"cmn0cuvp50002qqwft7vaobur\",\"joinedAt\":\"2026-03-21T13:19:59.891Z\",\"role\":\"owner\",\"user\":{\"createdAt\":\"2026-03-21T12:26:03.634Z\",\"email\":\"engineer.aryan084@gmail.com\",\"id\":\"cmn0axiia0000za7afbb2g106\",\"name\":\"Aryan Pandey\"},\"userId\":\"cmn0axiia0000za7afbb2g106\",\"workspaceId\":\"cmn0cuvop0000qqwfdpj2ahgk\"}]"}
+{"timestamp":"00:15:55.299","source":"Browser","level":"LOG","message":"Is owner: true"}
+{"timestamp":"00:15:55.299","source":"Browser","level":"LOG","message":"Can invite: true"}
+{"timestamp":"00:15:55.299","source":"Browser","level":"LOG","message":"API Error: null"}
+{"timestamp":"00:15:55.299","source":"Browser","level":"LOG","message":"Token in localStorage: EXISTS"}
+{"timestamp":"00:15:55.299","source":"Browser","level":"LOG","message":"Current user: cmn0axiia0000za7afbb2g106"}
+{"timestamp":"00:15:55.299","source":"Browser","level":"LOG","message":"Members: [{\"id\":\"cmn0cuvp50002qqwft7vaobur\",\"joinedAt\":\"2026-03-21T13:19:59.891Z\",\"role\":\"owner\",\"user\":{\"createdAt\":\"2026-03-21T12:26:03.634Z\",\"email\":\"engineer.aryan084@gmail.com\",\"id\":\"cmn0axiia0000za7afbb2g106\",\"name\":\"Aryan Pandey\"},\"userId\":\"cmn0axiia0000za7afbb2g106\",\"workspaceId\":\"cmn0cuvop0000qqwfdpj2ahgk\"}]"}
+{"timestamp":"00:15:55.299","source":"Browser","level":"LOG","message":"Is owner: true"}
+{"timestamp":"00:15:55.299","source":"Browser","level":"LOG","message":"Can invite: true"}
+{"timestamp":"00:15:55.299","source":"Browser","level":"LOG","message":"API Error: null"}
+{"timestamp":"00:15:56.845","source":"Browser","level":"LOG","message":"Token in localStorage: EXISTS"}
+{"timestamp":"00:15:56.845","source":"Browser","level":"LOG","message":"Current user: cmn0axiia0000za7afbb2g106"}
+{"timestamp":"00:15:56.845","source":"Browser","level":"LOG","message":"Members: [{\"id\":\"cmn0cuvp50002qqwft7vaobur\",\"joinedAt\":\"2026-03-21T13:19:59.891Z\",\"role\":\"owner\",\"user\":{\"createdAt\":\"2026-03-21T12:26:03.634Z\",\"email\":\"engineer.aryan084@gmail.com\",\"id\":\"cmn0axiia0000za7afbb2g106\",\"name\":\"Aryan Pandey\"},\"userId\":\"cmn0axiia0000za7afbb2g106\",\"workspaceId\":\"cmn0cuvop0000qqwfdpj2ahgk\"}]"}
+{"timestamp":"00:15:56.845","source":"Browser","level":"LOG","message":"Is owner: true"}
+{"timestamp":"00:15:56.845","source":"Browser","level":"LOG","message":"Can invite: true"}
+{"timestamp":"00:15:56.845","source":"Browser","level":"LOG","message":"API Error: null"}
+{"timestamp":"00:15:56.845","source":"Browser","level":"LOG","message":"Token in localStorage: EXISTS"}
+{"timestamp":"00:15:56.845","source":"Browser","level":"LOG","message":"Current user: cmn0axiia0000za7afbb2g106"}
+{"timestamp":"00:15:56.845","source":"Browser","level":"LOG","message":"Members: [{\"id\":\"cmn0cuvp50002qqwft7vaobur\",\"joinedAt\":\"2026-03-21T13:19:59.891Z\",\"role\":\"owner\",\"user\":{\"createdAt\":\"2026-03-21T12:26:03.634Z\",\"email\":\"engineer.aryan084@gmail.com\",\"id\":\"cmn0axiia0000za7afbb2g106\",\"name\":\"Aryan Pandey\"},\"userId\":\"cmn0axiia0000za7afbb2g106\",\"workspaceId\":\"cmn0cuvop0000qqwfdpj2ahgk\"}]"}
+{"timestamp":"00:15:56.845","source":"Browser","level":"LOG","message":"Is owner: true"}
+{"timestamp":"00:15:56.845","source":"Browser","level":"LOG","message":"Can invite: true"}
+{"timestamp":"00:15:56.845","source":"Browser","level":"LOG","message":"API Error: null"}
+{"timestamp":"00:15:56.874","source":"Browser","level":"LOG","message":"Token in localStorage: EXISTS"}
+{"timestamp":"00:15:56.874","source":"Browser","level":"LOG","message":"Current user: cmn0axiia0000za7afbb2g106"}
+{"timestamp":"00:15:56.874","source":"Browser","level":"LOG","message":"Members: [{\"id\":\"cmn0cuvp50002qqwft7vaobur\",\"joinedAt\":\"2026-03-21T13:19:59.891Z\",\"role\":\"owner\",\"user\":{\"createdAt\":\"2026-03-21T12:26:03.634Z\",\"email\":\"engineer.aryan084@gmail.com\",\"id\":\"cmn0axiia0000za7afbb2g106\",\"name\":\"Aryan Pandey\"},\"userId\":\"cmn0axiia0000za7afbb2g106\",\"workspaceId\":\"cmn0cuvop0000qqwfdpj2ahgk\"}]"}
+{"timestamp":"00:15:56.874","source":"Browser","level":"LOG","message":"Is owner: true"}
+{"timestamp":"00:15:56.874","source":"Browser","level":"LOG","message":"Can invite: true"}
+{"timestamp":"00:15:56.874","source":"Browser","level":"LOG","message":"API Error: null"}
+{"timestamp":"00:15:56.874","source":"Browser","level":"LOG","message":"Token in localStorage: EXISTS"}
+{"timestamp":"00:15:56.874","source":"Browser","level":"LOG","message":"Current user: cmn0axiia0000za7afbb2g106"}
+{"timestamp":"00:15:56.874","source":"Browser","level":"LOG","message":"Members: [{\"id\":\"cmn0cuvp50002qqwft7vaobur\",\"joinedAt\":\"2026-03-21T13:19:59.891Z\",\"role\":\"owner\",\"user\":{\"createdAt\":\"2026-03-21T12:26:03.634Z\",\"email\":\"engineer.aryan084@gmail.com\",\"id\":\"cmn0axiia0000za7afbb2g106\",\"name\":\"Aryan Pandey\"},\"userId\":\"cmn0axiia0000za7afbb2g106\",\"workspaceId\":\"cmn0cuvop0000qqwfdpj2ahgk\"}]"}
+{"timestamp":"00:15:56.874","source":"Browser","level":"LOG","message":"Is owner: true"}
+{"timestamp":"00:15:56.874","source":"Browser","level":"LOG","message":"Can invite: true"}
+{"timestamp":"00:15:56.874","source":"Browser","level":"LOG","message":"API Error: null"}
+{"timestamp":"00:15:56.874","source":"Browser","level":"LOG","message":"Token in localStorage: EXISTS"}
+{"timestamp":"00:15:56.874","source":"Browser","level":"LOG","message":"Current user: cmn0axiia0000za7afbb2g106"}
+{"timestamp":"00:15:56.874","source":"Browser","level":"LOG","message":"Members: [{\"id\":\"cmn0cuvp50002qqwft7vaobur\",\"joinedAt\":\"2026-03-21T13:19:59.891Z\",\"role\":\"owner\",\"user\":{\"createdAt\":\"2026-03-21T12:26:03.634Z\",\"email\":\"engineer.aryan084@gmail.com\",\"id\":\"cmn0axiia0000za7afbb2g106\",\"name\":\"Aryan Pandey\"},\"userId\":\"cmn0axiia0000za7afbb2g106\",\"workspaceId\":\"cmn0cuvop0000qqwfdpj2ahgk\"}]"}
+{"timestamp":"00:15:56.874","source":"Browser","level":"LOG","message":"Is owner: true"}
+{"timestamp":"00:15:56.874","source":"Browser","level":"LOG","message":"Can invite: true"}
+{"timestamp":"00:15:56.874","source":"Browser","level":"LOG","message":"API Error: null"}
+{"timestamp":"00:15:56.874","source":"Browser","level":"LOG","message":"Token in localStorage: EXISTS"}
+{"timestamp":"00:15:56.874","source":"Browser","level":"LOG","message":"Current user: cmn0axiia0000za7afbb2g106"}
+{"timestamp":"00:15:56.874","source":"Browser","level":"LOG","message":"Members: [{\"id\":\"cmn0cuvp50002qqwft7vaobur\",\"joinedAt\":\"2026-03-21T13:19:59.891Z\",\"role\":\"owner\",\"user\":{\"createdAt\":\"2026-03-21T12:26:03.634Z\",\"email\":\"engineer.aryan084@gmail.com\",\"id\":\"cmn0axiia0000za7afbb2g106\",\"name\":\"Aryan Pandey\"},\"userId\":\"cmn0axiia0000za7afbb2g106\",\"workspaceId\":\"cmn0cuvop0000qqwfdpj2ahgk\"}]"}
+{"timestamp":"00:15:56.874","source":"Browser","level":"LOG","message":"Is owner: true"}
+{"timestamp":"00:15:56.874","source":"Browser","level":"LOG","message":"Can invite: true"}
+{"timestamp":"00:15:56.874","source":"Browser","level":"LOG","message":"API Error: null"}
+{"timestamp":"00:16:00.152","source":"Browser","level":"LOG","message":"Token in localStorage: EXISTS"}
+{"timestamp":"00:16:00.152","source":"Browser","level":"LOG","message":"Current user: cmn0axiia0000za7afbb2g106"}
+{"timestamp":"00:16:00.152","source":"Browser","level":"LOG","message":"Members: [{\"id\":\"cmn0cuvp50002qqwft7vaobur\",\"joinedAt\":\"2026-03-21T13:19:59.891Z\",\"role\":\"owner\",\"user\":{\"createdAt\":\"2026-03-21T12:26:03.634Z\",\"email\":\"engineer.aryan084@gmail.com\",\"id\":\"cmn0axiia0000za7afbb2g106\",\"name\":\"Aryan Pandey\"},\"userId\":\"cmn0axiia0000za7afbb2g106\",\"workspaceId\":\"cmn0cuvop0000qqwfdpj2ahgk\"}]"}
+{"timestamp":"00:16:00.152","source":"Browser","level":"LOG","message":"Is owner: true"}
+{"timestamp":"00:16:00.152","source":"Browser","level":"LOG","message":"Can invite: true"}
+{"timestamp":"00:16:00.152","source":"Browser","level":"LOG","message":"API Error: null"}
+{"timestamp":"00:16:00.152","source":"Browser","level":"LOG","message":"Token in localStorage: EXISTS"}
+{"timestamp":"00:16:00.152","source":"Browser","level":"LOG","message":"Current user: cmn0axiia0000za7afbb2g106"}
+{"timestamp":"00:16:00.152","source":"Browser","level":"LOG","message":"Members: [{\"id\":\"cmn0cuvp50002qqwft7vaobur\",\"joinedAt\":\"2026-03-21T13:19:59.891Z\",\"role\":\"owner\",\"user\":{\"createdAt\":\"2026-03-21T12:26:03.634Z\",\"email\":\"engineer.aryan084@gmail.com\",\"id\":\"cmn0axiia0000za7afbb2g106\",\"name\":\"Aryan Pandey\"},\"userId\":\"cmn0axiia0000za7afbb2g106\",\"workspaceId\":\"cmn0cuvop0000qqwfdpj2ahgk\"}]"}
+{"timestamp":"00:16:00.153","source":"Browser","level":"LOG","message":"Is owner: true"}
+{"timestamp":"00:16:00.154","source":"Browser","level":"LOG","message":"Can invite: true"}
+{"timestamp":"00:16:00.154","source":"Browser","level":"LOG","message":"API Error: null"}
