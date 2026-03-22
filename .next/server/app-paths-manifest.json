@@ -1,0 +1,23 @@
+{
+  "/(auth)/login/page": "app/(auth)/login/page.js",
+  "/(auth)/register/page": "app/(auth)/register/page.js",
+  "/_global-error/page": "app/_global-error/page.js",
+  "/_not-found/page": "app/_not-found/page.js",
+  "/dashboard/page": "app/dashboard/page.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/feedback/[link]/page": "app/feedback/[link]/page.js",
+  "/invite/[token]/page": "app/invite/[token]/page.js",
+  "/page": "app/page.js",
+  "/pricing/page": "app/pricing/page.js",
+  "/profile/page": "app/profile/page.js",
+  "/settings/page": "app/settings/page.js",
+  "/workspace/[id]/analytics/page": "app/workspace/[id]/analytics/page.js",
+  "/workspace/[id]/chat/page": "app/workspace/[id]/chat/page.js",
+  "/workspace/[id]/feedback/page": "app/workspace/[id]/feedback/page.js",
+  "/workspace/[id]/insights/page": "app/workspace/[id]/insights/page.js",
+  "/workspace/[id]/milestones/page": "app/workspace/[id]/milestones/page.js",
+  "/workspace/[id]/page": "app/workspace/[id]/page.js",
+  "/workspace/[id]/pitch/page": "app/workspace/[id]/pitch/page.js",
+  "/workspace/[id]/tasks/page": "app/workspace/[id]/tasks/page.js",
+  "/workspace/[id]/team/page": "app/workspace/[id]/team/page.js"
+}
